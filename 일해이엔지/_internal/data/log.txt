@@ -1,0 +1,2871 @@
+2023-12-02 18:18:44 ====== WebDriver manager ======
+2023-12-02 18:18:46 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:18:47 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:18:48 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-02 18:37:10 ====== WebDriver manager ======
+2023-12-02 18:37:10 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:37:10 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:37:10 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-02 18:40:54 ====== WebDriver manager ======
+2023-12-02 18:40:55 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:40:55 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:40:55 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-02 18:41:20 Time: 2023-12-02 18:41:20, ID: mydaily6806, Counter: 1
+2023-12-02 18:45:46 ====== WebDriver manager ======
+2023-12-02 18:45:47 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:45:47 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:45:47 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-02 18:46:12 Time: 2023-12-02 18:46:12, ID: mydaily6806, Counter: 1
+2023-12-02 18:46:40 Time: 2023-12-02 18:46:40, ID: mydaily6806, Counter: 2
+2023-12-02 18:47:05 ====== WebDriver manager ======
+2023-12-02 18:47:06 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:47:06 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:47:06 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-02 18:49:00 ====== WebDriver manager ======
+2023-12-02 18:49:00 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:49:01 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:49:01 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-02 18:52:56 ====== WebDriver manager ======
+2023-12-02 18:52:57 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:52:57 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:52:57 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-02 18:53:22 Time: 2023-12-02 18:53:22, ID: mydaily6806, Counter: 1
+2023-12-02 18:53:48 Time: 2023-12-02 18:53:48, ID: mydaily6806, Counter: 2
+2023-12-02 18:54:12 Time: 2023-12-02 18:54:12, ID: mydaily6806, Counter: 3
+2023-12-02 18:54:50 Time: 2023-12-02 18:54:50, ID: mydaily6806, Counter: 4
+2023-12-02 18:55:28 Time: 2023-12-02 18:55:28, ID: mydaily6806, Counter: 5
+2023-12-02 18:56:04 Time: 2023-12-02 18:56:04, ID: mydaily6806, Counter: 6
+2023-12-02 18:56:40 Time: 2023-12-02 18:56:40, ID: mydaily6806, Counter: 7
+2023-12-02 18:57:13 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 18:57:18 Time: 2023-12-02 18:57:18, ID: mydaily6806, Counter: 8
+2023-12-02 18:57:48 ====== WebDriver manager ======
+2023-12-02 18:57:48 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:57:48 Get LATEST chromedriver version for google-chrome
+2023-12-02 18:57:49 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-02 18:58:14 Time: 2023-12-02 18:58:14, ID: mydaily6806, Counter: 1
+2023-12-02 18:58:27 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 18:58:59 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 18:59:02 Time: 2023-12-02 18:59:02, ID: mydaily6806, Counter: 2
+2023-12-02 18:59:15 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 18:59:44 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 18:59:47 Time: 2023-12-02 18:59:47, ID: mydaily6806, Counter: 3
+2023-12-02 19:00:00 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:07:47 ====== WebDriver manager ======
+2023-12-02 19:07:47 Get LATEST chromedriver version for google-chrome
+2023-12-02 19:07:48 Get LATEST chromedriver version for google-chrome
+2023-12-02 19:07:48 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-02 19:08:13 Time: 2023-12-02 19:08:13, ID: mydaily6806, Counter: 1
+2023-12-02 19:08:26 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:08:37 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:08:40 Time: 2023-12-02 19:08:40, ID: mydaily6806, Counter: 2
+2023-12-02 19:08:53 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:09:04 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:09:06 Time: 2023-12-02 19:09:06, ID: mydaily6806, Counter: 3
+2023-12-02 19:09:19 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:09:30 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:09:32 Time: 2023-12-02 19:09:32, ID: mydaily6806, Counter: 4
+2023-12-02 19:09:45 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:09:59 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:10:01 Time: 2023-12-02 19:10:01, ID: mydaily6806, Counter: 5
+2023-12-02 19:12:31 ====== WebDriver manager ======
+2023-12-02 19:12:32 Get LATEST chromedriver version for google-chrome
+2023-12-02 19:12:32 Get LATEST chromedriver version for google-chrome
+2023-12-02 19:12:32 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-02 19:12:57 Time: 2023-12-02 19:12:57, ID: mydaily6806, Counter: 1
+2023-12-02 19:13:10 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:13:18 Time: 2023-12-02 19:13:18, ID: mydaily6806, Counter: 2
+2023-12-02 19:13:31 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:13:39 Time: 2023-12-02 19:13:39, ID: mydaily6806, Counter: 3
+2023-12-02 19:13:52 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:14:00 Time: 2023-12-02 19:14:00, ID: mydaily6806, Counter: 4
+2023-12-02 19:14:13 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:14:21 Time: 2023-12-02 19:14:21, ID: mydaily6806, Counter: 5
+2023-12-02 19:14:34 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:14:42 Time: 2023-12-02 19:14:42, ID: mydaily6806, Counter: 6
+2023-12-02 19:14:55 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:15:03 Time: 2023-12-02 19:15:03, ID: mydaily6806, Counter: 7
+2023-12-02 19:15:16 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:15:27 Time: 2023-12-02 19:15:27, ID: mydaily6806, Counter: 8
+2023-12-02 19:15:40 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:15:48 Time: 2023-12-02 19:15:48, ID: mydaily6806, Counter: 9
+2023-12-02 19:16:01 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:16:11 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:16:22 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:16:32 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-02 19:16:35 Time: 2023-12-02 19:16:35, ID: mydaily6806, Counter: 10
+2023-12-02 19:16:48 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B672A3+45731]
+	(No symbol) [0x00AF2D51]
+	(No symbol) [0x009E880D]
+	(No symbol) [0x00A1B940]
+	(No symbol) [0x00A1BE0B]
+	(No symbol) [0x00A4D1F2]
+	(No symbol) [0x00A38024]
+	(No symbol) [0x00A4B7A2]
+	(No symbol) [0x00A37DD6]
+	(No symbol) [0x00A131F6]
+	(No symbol) [0x00A1439D]
+	GetHandleVerifier [0x00E70716+3229462]
+	GetHandleVerifier [0x00EB84C8+3523784]
+	GetHandleVerifier [0x00EB214C+3498316]
+	GetHandleVerifier [0x00BF1680+611968]
+	(No symbol) [0x00AFCCCC]
+	(No symbol) [0x00AF8DF8]
+	(No symbol) [0x00AF8F1D]
+	(No symbol) [0x00AEB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:22:42 ====== WebDriver manager ======
+2023-12-03 09:22:43 Get LATEST chromedriver version for google-chrome
+2023-12-03 09:22:43 Get LATEST chromedriver version for google-chrome
+2023-12-03 09:22:43 Get LATEST chromedriver version for google-chrome
+2023-12-03 09:22:43 WebDriver version 119.0.6045.105 selected
+2023-12-03 09:22:43 Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win32/chromedriver-win32.zip
+2023-12-03 09:22:43 About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win32/chromedriver-win32.zip
+2023-12-03 09:22:43 Driver downloading response is 200
+2023-12-03 09:22:44 Get LATEST chromedriver version for google-chrome
+2023-12-03 09:22:44 Driver has been saved in cache [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105]
+2023-12-03 09:32:39 ====== WebDriver manager ======
+2023-12-03 09:32:39 Get LATEST chromedriver version for google-chrome
+2023-12-03 09:32:39 Get LATEST chromedriver version for google-chrome
+2023-12-03 09:32:39 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-03 09:33:05 Time: 2023-12-03 09:33:05, ID: ahszero, Counter: 1
+2023-12-03 09:33:17 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:33:26 Time: 2023-12-03 09:33:26, ID: ahszero, Counter: 2
+2023-12-03 09:33:38 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:33:47 Time: 2023-12-03 09:33:47, ID: ahszero, Counter: 3
+2023-12-03 09:34:00 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:34:08 Time: 2023-12-03 09:34:08, ID: ahszero, Counter: 4
+2023-12-03 09:34:21 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:34:29 Time: 2023-12-03 09:34:29, ID: ahszero, Counter: 5
+2023-12-03 09:34:42 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:34:50 Time: 2023-12-03 09:34:50, ID: ahszero, Counter: 6
+2023-12-03 09:37:08 ====== WebDriver manager ======
+2023-12-03 09:37:09 Get LATEST chromedriver version for google-chrome
+2023-12-03 09:37:09 Get LATEST chromedriver version for google-chrome
+2023-12-03 09:37:09 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-03 09:39:45 ====== WebDriver manager ======
+2023-12-03 09:39:46 Get LATEST chromedriver version for google-chrome
+2023-12-03 09:39:46 Get LATEST chromedriver version for google-chrome
+2023-12-03 09:39:46 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-03 09:40:12 Time: 2023-12-03 09:40:12, ID: ahszero, Counter: 1
+2023-12-03 09:40:25 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:40:33 Time: 2023-12-03 09:40:33, ID: ahszero, Counter: 2
+2023-12-03 09:40:46 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:40:54 Time: 2023-12-03 09:40:54, ID: ahszero, Counter: 3
+2023-12-03 09:41:07 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:41:17 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:41:28 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:41:38 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:41:41 Time: 2023-12-03 09:41:41, ID: ahszero, Counter: 4
+2023-12-03 09:41:54 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:42:02 Time: 2023-12-03 09:42:02, ID: ahszero, Counter: 5
+2023-12-03 09:42:15 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:42:23 Time: 2023-12-03 09:42:23, ID: ahszero, Counter: 6
+2023-12-03 09:42:36 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:42:44 Time: 2023-12-03 09:42:44, ID: ahszero, Counter: 7
+2023-12-03 09:42:57 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:43:08 Time: 2023-12-03 09:43:08, ID: ahszero, Counter: 8
+2023-12-03 09:43:21 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:43:29 Time: 2023-12-03 09:43:29, ID: ahszero, Counter: 9
+2023-12-03 09:43:42 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:43:50 Time: 2023-12-03 09:43:50, ID: ahszero, Counter: 10
+2023-12-03 09:44:03 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:44:11 Time: 2023-12-03 09:44:11, ID: ahszero, Counter: 11
+2023-12-03 09:44:24 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:44:35 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:44:45 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:44:56 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:44:58 Time: 2023-12-03 09:44:58, ID: ahszero, Counter: 12
+2023-12-03 09:45:11 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:45:19 Time: 2023-12-03 09:45:19, ID: ahszero, Counter: 13
+2023-12-03 09:45:32 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:45:41 Time: 2023-12-03 09:45:41, ID: ahszero, Counter: 14
+2023-12-03 09:45:54 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:46:04 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:46:15 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:46:25 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:46:31 Time: 2023-12-03 09:46:31, ID: ahszero, Counter: 15
+2023-12-03 09:46:44 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:46:52 Time: 2023-12-03 09:46:52, ID: ahszero, Counter: 16
+2023-12-03 09:47:05 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:47:15 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:47:26 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:47:37 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:47:39 Time: 2023-12-03 09:47:39, ID: ahszero, Counter: 17
+2023-12-03 09:47:52 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 09:48:00 Time: 2023-12-03 09:48:00, ID: ahszero, Counter: 18
+2023-12-03 09:48:22 Time: 2023-12-03 09:48:22, ID: ahszero, Counter: 19
+2023-12-03 10:10:09 ====== WebDriver manager ======
+2023-12-03 10:10:10 Get LATEST chromedriver version for google-chrome
+2023-12-03 10:10:10 Get LATEST chromedriver version for google-chrome
+2023-12-03 10:10:10 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-03 10:12:58 ====== WebDriver manager ======
+2023-12-03 10:12:59 Get LATEST chromedriver version for google-chrome
+2023-12-03 10:12:59 Get LATEST chromedriver version for google-chrome
+2023-12-03 10:12:59 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-03 10:13:25 Time: 2023-12-03 10:13:25, ID: mydaily6806, Counter: 1
+2023-12-03 10:13:54 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 10:14:07 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008B72A3+45731]
+	(No symbol) [0x00842D51]
+	(No symbol) [0x0073880D]
+	(No symbol) [0x0076B940]
+	(No symbol) [0x0076BE0B]
+	(No symbol) [0x0079D1F2]
+	(No symbol) [0x00788024]
+	(No symbol) [0x0079B7A2]
+	(No symbol) [0x00787DD6]
+	(No symbol) [0x007631F6]
+	(No symbol) [0x0076439D]
+	GetHandleVerifier [0x00BC0716+3229462]
+	GetHandleVerifier [0x00C084C8+3523784]
+	GetHandleVerifier [0x00C0214C+3498316]
+	GetHandleVerifier [0x00941680+611968]
+	(No symbol) [0x0084CCCC]
+	(No symbol) [0x00848DF8]
+	(No symbol) [0x00848F1D]
+	(No symbol) [0x0083B2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-03 10:17:14 ====== WebDriver manager ======
+2023-12-03 10:17:15 Get LATEST chromedriver version for google-chrome
+2023-12-03 10:17:15 Get LATEST chromedriver version for google-chrome
+2023-12-03 10:17:15 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-03 10:17:41 Time: 2023-12-03 10:17:41, ID: mydaily6806, Counter: 1
+2023-12-03 10:18:17 Time: 2023-12-03 10:18:17, ID: mydaily6806, Counter: 2
+2023-12-03 10:18:56 Time: 2023-12-03 10:18:56, ID: mydaily6806, Counter: 3
+2023-12-04 20:36:53 ====== WebDriver manager ======
+2023-12-04 20:36:53 Get LATEST chromedriver version for google-chrome
+2023-12-04 20:36:53 Get LATEST chromedriver version for google-chrome
+2023-12-04 20:36:53 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-04 20:41:08 ====== WebDriver manager ======
+2023-12-04 20:41:09 Get LATEST chromedriver version for google-chrome
+2023-12-04 20:41:09 Get LATEST chromedriver version for google-chrome
+2023-12-04 20:41:09 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-04 20:44:38 ====== WebDriver manager ======
+2023-12-04 20:44:39 Get LATEST chromedriver version for google-chrome
+2023-12-04 20:44:39 Get LATEST chromedriver version for google-chrome
+2023-12-04 20:44:39 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-04 20:46:33 ====== WebDriver manager ======
+2023-12-04 20:46:33 Get LATEST chromedriver version for google-chrome
+2023-12-04 20:46:34 Get LATEST chromedriver version for google-chrome
+2023-12-04 20:46:34 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-04 20:47:00 Time: 2023-12-04 20:47:00, ID: mydaily6806, Counter: 1
+2023-12-04 20:47:35 Time: 2023-12-04 20:47:35, ID: mydaily6806, Counter: 2
+2023-12-04 21:10:00 ====== WebDriver manager ======
+2023-12-04 21:10:01 Get LATEST chromedriver version for google-chrome
+2023-12-04 21:10:01 Get LATEST chromedriver version for google-chrome
+2023-12-04 21:10:01 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-04 21:10:28 Time: 2023-12-04 21:10:28, ID: phonehe77, Counter: 1
+2023-12-04 21:11:04 Time: 2023-12-04 21:11:04, ID: phonehe77, Counter: 2
+2023-12-04 21:11:28 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x006572A3+45731]
+	(No symbol) [0x005E2D51]
+	(No symbol) [0x004D880D]
+	(No symbol) [0x0050B940]
+	(No symbol) [0x0050BE0B]
+	(No symbol) [0x0053D1F2]
+	(No symbol) [0x00528024]
+	(No symbol) [0x0053B7A2]
+	(No symbol) [0x00527DD6]
+	(No symbol) [0x005031F6]
+	(No symbol) [0x0050439D]
+	GetHandleVerifier [0x00960716+3229462]
+	GetHandleVerifier [0x009A84C8+3523784]
+	GetHandleVerifier [0x009A214C+3498316]
+	GetHandleVerifier [0x006E1680+611968]
+	(No symbol) [0x005ECCCC]
+	(No symbol) [0x005E8DF8]
+	(No symbol) [0x005E8F1D]
+	(No symbol) [0x005DB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-04 21:16:28 ====== WebDriver manager ======
+2023-12-04 21:16:28 Get LATEST chromedriver version for google-chrome
+2023-12-04 21:16:28 Get LATEST chromedriver version for google-chrome
+2023-12-04 21:16:28 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-04 21:17:14 ====== WebDriver manager ======
+2023-12-04 21:17:14 Get LATEST chromedriver version for google-chrome
+2023-12-04 21:17:14 Get LATEST chromedriver version for google-chrome
+2023-12-04 21:17:14 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-04 21:19:09 ====== WebDriver manager ======
+2023-12-04 21:19:10 Get LATEST chromedriver version for google-chrome
+2023-12-04 21:19:10 Get LATEST chromedriver version for google-chrome
+2023-12-04 21:19:10 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-04 21:19:36 Time: 2023-12-04 21:19:36, ID: phonehe77, Counter: 1
+2023-12-04 21:20:11 Time: 2023-12-04 21:20:11, ID: phonehe77, Counter: 2
+2023-12-04 21:20:38 Time: 2023-12-04 21:20:38, ID: phonehe77, Counter: 3
+2023-12-04 22:04:36 ====== WebDriver manager ======
+2023-12-04 22:04:36 Get LATEST chromedriver version for google-chrome
+2023-12-04 22:04:36 Get LATEST chromedriver version for google-chrome
+2023-12-04 22:04:36 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-04 22:05:03 Time: 2023-12-04 22:05:03, ID: coolsalespro, Counter: 1
+2023-12-04 22:05:05 Time: 2023-12-04 22:05:05, ID: coolsalespro, Counter: 2
+2023-12-04 22:05:08 Time: 2023-12-04 22:05:08, ID: coolsalespro, Counter: 3
+2023-12-04 22:05:10 Time: 2023-12-04 22:05:10, ID: coolsalespro, Counter: 4
+2023-12-04 22:05:13 Time: 2023-12-04 22:05:13, ID: coolsalespro, Counter: 5
+2023-12-04 22:05:16 Time: 2023-12-04 22:05:16, ID: coolsalespro, Counter: 6
+2023-12-04 22:05:18 Time: 2023-12-04 22:05:18, ID: coolsalespro, Counter: 7
+2023-12-04 22:07:20 ====== WebDriver manager ======
+2023-12-04 22:07:21 Get LATEST chromedriver version for google-chrome
+2023-12-04 22:07:21 Get LATEST chromedriver version for google-chrome
+2023-12-04 22:07:21 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-04 22:07:47 Time: 2023-12-04 22:07:47, ID: coolsalespro, Counter: 1
+2023-12-04 22:09:38 ====== WebDriver manager ======
+2023-12-04 22:09:39 Get LATEST chromedriver version for google-chrome
+2023-12-04 22:09:39 Get LATEST chromedriver version for google-chrome
+2023-12-04 22:09:39 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-04 22:10:05 Time: 2023-12-04 22:10:05, ID: coolsalespro, Counter: 1
+2023-12-04 22:10:48 Time: 2023-12-04 22:10:48, ID: coolsalespro, Counter: 2
+2023-12-04 22:11:29 Time: 2023-12-04 22:11:29, ID: coolsalespro, Counter: 3
+2023-12-04 22:20:32 ====== WebDriver manager ======
+2023-12-04 22:20:32 Get LATEST chromedriver version for google-chrome
+2023-12-04 22:20:32 Get LATEST chromedriver version for google-chrome
+2023-12-04 22:20:32 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-04 22:20:58 Time: 2023-12-04 22:20:58, ID: coolsalespro, Counter: 1
+2023-12-04 22:21:20 Time: 2023-12-04 22:21:20, ID: coolsalespro, Counter: 2
+2023-12-04 22:21:47 Time: 2023-12-04 22:21:47, ID: coolsalespro, Counter: 3
+2023-12-04 22:24:33 ====== WebDriver manager ======
+2023-12-04 22:24:33 Get LATEST chromedriver version for google-chrome
+2023-12-04 22:24:33 Get LATEST chromedriver version for google-chrome
+2023-12-04 22:24:34 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-04 22:24:59 Time: 2023-12-04 22:24:59, ID: coolsalespro, Counter: 1
+2023-12-04 22:25:20 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x006572A3+45731]
+	(No symbol) [0x005E2D51]
+	(No symbol) [0x004D880D]
+	(No symbol) [0x0050B940]
+	(No symbol) [0x0050BE0B]
+	(No symbol) [0x0053D1F2]
+	(No symbol) [0x00528024]
+	(No symbol) [0x0053B7A2]
+	(No symbol) [0x00527DD6]
+	(No symbol) [0x005031F6]
+	(No symbol) [0x0050439D]
+	GetHandleVerifier [0x00960716+3229462]
+	GetHandleVerifier [0x009A84C8+3523784]
+	GetHandleVerifier [0x009A214C+3498316]
+	GetHandleVerifier [0x006E1680+611968]
+	(No symbol) [0x005ECCCC]
+	(No symbol) [0x005E8DF8]
+	(No symbol) [0x005E8F1D]
+	(No symbol) [0x005DB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-04 22:25:23 Time: 2023-12-04 22:25:23, ID: coolsalespro, Counter: 2
+2023-12-05 17:06:59 ====== WebDriver manager ======
+2023-12-05 17:07:00 Get LATEST chromedriver version for google-chrome
+2023-12-05 17:07:00 Get LATEST chromedriver version for google-chrome
+2023-12-05 17:07:00 Get LATEST chromedriver version for google-chrome
+2023-12-05 17:07:00 WebDriver version 119.0.6045.105 selected
+2023-12-05 17:07:00 Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win32/chromedriver-win32.zip
+2023-12-05 17:07:00 About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win32/chromedriver-win32.zip
+2023-12-05 17:07:00 Driver downloading response is 200
+2023-12-05 17:07:01 Get LATEST chromedriver version for google-chrome
+2023-12-05 17:07:01 Driver has been saved in cache [C:\Users\light\.wdm\drivers\chromedriver\win64\119.0.6045.105]
+2023-12-05 17:07:27 Time: 2023-12-05 17:07:27, ID: ahszero, Counter: 1
+2023-12-05 17:07:49 Time: 2023-12-05 17:07:49, ID: ahszero, Counter: 2
+2023-12-05 17:08:13 Time: 2023-12-05 17:08:13, ID: ahszero, Counter: 3
+2023-12-05 17:08:43 Time: 2023-12-05 17:08:43, ID: ahszero, Counter: 4
+2023-12-05 17:09:06 Time: 2023-12-05 17:09:06, ID: ahszero, Counter: 5
+2023-12-05 17:09:39 Time: 2023-12-05 17:09:39, ID: ahszero, Counter: 6
+2023-12-05 17:10:01 Time: 2023-12-05 17:10:01, ID: ahszero, Counter: 7
+2023-12-05 17:10:29 Time: 2023-12-05 17:10:29, ID: ahszero, Counter: 8
+2023-12-05 17:10:54 Time: 2023-12-05 17:10:54, ID: ahszero, Counter: 9
+2023-12-05 17:11:15 Time: 2023-12-05 17:11:15, ID: ahszero, Counter: 10
+2023-12-05 17:11:43 Time: 2023-12-05 17:11:43, ID: ahszero, Counter: 11
+2023-12-05 17:12:08 Time: 2023-12-05 17:12:08, ID: ahszero, Counter: 12
+2023-12-05 17:12:36 Time: 2023-12-05 17:12:36, ID: ahszero, Counter: 13
+2023-12-05 17:12:57 Time: 2023-12-05 17:12:57, ID: ahszero, Counter: 14
+2023-12-05 17:13:24 Time: 2023-12-05 17:13:24, ID: ahszero, Counter: 15
+2023-12-05 17:13:49 Time: 2023-12-05 17:13:49, ID: ahszero, Counter: 16
+2023-12-05 17:14:21 Time: 2023-12-05 17:14:21, ID: ahszero, Counter: 17
+2023-12-05 17:14:46 Time: 2023-12-05 17:14:46, ID: ahszero, Counter: 18
+2023-12-05 17:15:04 Time: 2023-12-05 17:15:04, ID: ahszero, Counter: 19
+2023-12-05 17:15:32 Time: 2023-12-05 17:15:32, ID: ahszero, Counter: 20
+2023-12-05 17:15:53 Time: 2023-12-05 17:15:53, ID: ahszero, Counter: 21
+2023-12-05 17:16:18 Time: 2023-12-05 17:16:18, ID: ahszero, Counter: 22
+2023-12-05 17:16:37 Time: 2023-12-05 17:16:37, ID: ahszero, Counter: 23
+2023-12-05 17:17:03 Time: 2023-12-05 17:17:03, ID: ahszero, Counter: 24
+2023-12-05 17:17:26 Time: 2023-12-05 17:17:26, ID: ahszero, Counter: 25
+2023-12-05 17:17:56 Time: 2023-12-05 17:17:56, ID: ahszero, Counter: 26
+2023-12-05 17:18:19 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010272A3+45731]
+	(No symbol) [0x00FB2D51]
+	(No symbol) [0x00EA880D]
+	(No symbol) [0x00EDB940]
+	(No symbol) [0x00EDBE0B]
+	(No symbol) [0x00F0D1F2]
+	(No symbol) [0x00EF8024]
+	(No symbol) [0x00F0B7A2]
+	(No symbol) [0x00EF7DD6]
+	(No symbol) [0x00ED31F6]
+	(No symbol) [0x00ED439D]
+	GetHandleVerifier [0x01330716+3229462]
+	GetHandleVerifier [0x013784C8+3523784]
+	GetHandleVerifier [0x0137214C+3498316]
+	GetHandleVerifier [0x010B1680+611968]
+	(No symbol) [0x00FBCCCC]
+	(No symbol) [0x00FB8DF8]
+	(No symbol) [0x00FB8F1D]
+	(No symbol) [0x00FAB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-05 17:18:22 Time: 2023-12-05 17:18:22, ID: ahszero, Counter: 27
+2023-12-05 17:18:47 Time: 2023-12-05 17:18:47, ID: ahszero, Counter: 28
+2023-12-05 17:19:11 Time: 2023-12-05 17:19:11, ID: ahszero, Counter: 29
+2023-12-05 17:19:33 Time: 2023-12-05 17:19:33, ID: ahszero, Counter: 30
+2023-12-05 17:19:50 Time: 2023-12-05 17:19:50, ID: ahszero, Counter: 31
+2023-12-05 17:20:19 Time: 2023-12-05 17:20:19, ID: ahszero, Counter: 32
+2023-12-05 17:20:44 Time: 2023-12-05 17:20:44, ID: ahszero, Counter: 33
+2023-12-05 17:21:08 Time: 2023-12-05 17:21:08, ID: ahszero, Counter: 34
+2023-12-05 17:21:31 Time: 2023-12-05 17:21:31, ID: ahszero, Counter: 35
+2023-12-05 17:21:57 Time: 2023-12-05 17:21:57, ID: ahszero, Counter: 36
+2023-12-05 17:22:23 Time: 2023-12-05 17:22:23, ID: ahszero, Counter: 37
+2023-12-05 17:22:54 Time: 2023-12-05 17:22:54, ID: ahszero, Counter: 38
+2023-12-05 17:23:22 Time: 2023-12-05 17:23:22, ID: ahszero, Counter: 39
+2023-12-05 17:23:48 Time: 2023-12-05 17:23:48, ID: ahszero, Counter: 40
+2023-12-05 17:24:14 Time: 2023-12-05 17:24:14, ID: ahszero, Counter: 41
+2023-12-05 17:24:38 Time: 2023-12-05 17:24:38, ID: ahszero, Counter: 42
+2023-12-05 17:25:03 Time: 2023-12-05 17:25:03, ID: ahszero, Counter: 43
+2023-12-05 17:25:33 Time: 2023-12-05 17:25:33, ID: ahszero, Counter: 44
+2023-12-05 17:25:54 Time: 2023-12-05 17:25:54, ID: ahszero, Counter: 45
+2023-12-05 17:26:15 Time: 2023-12-05 17:26:15, ID: ahszero, Counter: 46
+2023-12-05 17:26:44 Time: 2023-12-05 17:26:44, ID: ahszero, Counter: 47
+2023-12-05 17:27:08 Time: 2023-12-05 17:27:08, ID: ahszero, Counter: 48
+2023-12-05 17:27:40 Time: 2023-12-05 17:27:40, ID: ahszero, Counter: 49
+2023-12-05 17:27:59 Time: 2023-12-05 17:27:59, ID: ahszero, Counter: 50
+2023-12-05 17:28:29 Time: 2023-12-05 17:28:29, ID: ahszero, Counter: 51
+2023-12-05 17:29:01 Time: 2023-12-05 17:29:01, ID: ahszero, Counter: 52
+2023-12-05 17:29:22 Time: 2023-12-05 17:29:22, ID: ahszero, Counter: 53
+2023-12-05 17:29:49 Time: 2023-12-05 17:29:49, ID: ahszero, Counter: 54
+2023-12-05 17:30:10 Time: 2023-12-05 17:30:10, ID: ahszero, Counter: 55
+2023-12-05 17:30:35 Time: 2023-12-05 17:30:35, ID: ahszero, Counter: 56
+2023-12-05 17:31:03 Time: 2023-12-05 17:31:03, ID: ahszero, Counter: 57
+2023-12-05 17:31:31 Time: 2023-12-05 17:31:31, ID: ahszero, Counter: 58
+2023-12-05 17:31:54 Time: 2023-12-05 17:31:54, ID: ahszero, Counter: 59
+2023-12-05 17:32:15 Time: 2023-12-05 17:32:15, ID: ahszero, Counter: 60
+2023-12-05 17:32:32 Time: 2023-12-05 17:32:32, ID: ahszero, Counter: 61
+2023-12-05 17:33:06 Time: 2023-12-05 17:33:06, ID: ahszero, Counter: 62
+2023-12-05 17:33:35 Time: 2023-12-05 17:33:35, ID: ahszero, Counter: 63
+2023-12-05 17:34:04 Time: 2023-12-05 17:34:04, ID: ahszero, Counter: 64
+2023-12-05 17:34:32 Time: 2023-12-05 17:34:32, ID: ahszero, Counter: 65
+2023-12-05 17:34:59 Time: 2023-12-05 17:34:59, ID: ahszero, Counter: 66
+2023-12-05 17:35:26 Time: 2023-12-05 17:35:26, ID: ahszero, Counter: 67
+2023-12-05 17:35:49 Time: 2023-12-05 17:35:49, ID: ahszero, Counter: 68
+2023-12-05 17:36:17 Time: 2023-12-05 17:36:17, ID: ahszero, Counter: 69
+2023-12-05 17:36:41 Time: 2023-12-05 17:36:41, ID: ahszero, Counter: 70
+2023-12-05 17:37:13 Time: 2023-12-05 17:37:13, ID: ahszero, Counter: 71
+2023-12-05 17:37:38 Time: 2023-12-05 17:37:38, ID: ahszero, Counter: 72
+2023-12-05 17:38:04 Time: 2023-12-05 17:38:04, ID: ahszero, Counter: 73
+2023-12-05 17:38:28 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010272A3+45731]
+	(No symbol) [0x00FB2D51]
+	(No symbol) [0x00EA880D]
+	(No symbol) [0x00EDB940]
+	(No symbol) [0x00EDBE0B]
+	(No symbol) [0x00F0D1F2]
+	(No symbol) [0x00EF8024]
+	(No symbol) [0x00F0B7A2]
+	(No symbol) [0x00EF7DD6]
+	(No symbol) [0x00ED31F6]
+	(No symbol) [0x00ED439D]
+	GetHandleVerifier [0x01330716+3229462]
+	GetHandleVerifier [0x013784C8+3523784]
+	GetHandleVerifier [0x0137214C+3498316]
+	GetHandleVerifier [0x010B1680+611968]
+	(No symbol) [0x00FBCCCC]
+	(No symbol) [0x00FB8DF8]
+	(No symbol) [0x00FB8F1D]
+	(No symbol) [0x00FAB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-05 17:38:30 Time: 2023-12-05 17:38:30, ID: ahszero, Counter: 74
+2023-12-05 17:38:54 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x010272A3+45731]
+	(No symbol) [0x00FB2D51]
+	(No symbol) [0x00EA880D]
+	(No symbol) [0x00EDB940]
+	(No symbol) [0x00EDBE0B]
+	(No symbol) [0x00F0D1F2]
+	(No symbol) [0x00EF8024]
+	(No symbol) [0x00F0B7A2]
+	(No symbol) [0x00EF7DD6]
+	(No symbol) [0x00ED31F6]
+	(No symbol) [0x00ED439D]
+	GetHandleVerifier [0x01330716+3229462]
+	GetHandleVerifier [0x013784C8+3523784]
+	GetHandleVerifier [0x0137214C+3498316]
+	GetHandleVerifier [0x010B1680+611968]
+	(No symbol) [0x00FBCCCC]
+	(No symbol) [0x00FB8DF8]
+	(No symbol) [0x00FB8F1D]
+	(No symbol) [0x00FAB2C7]
+	BaseThreadInitThunk [0x7629FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77B57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77B57C3E+238]
+
+2023-12-05 17:38:56 Time: 2023-12-05 17:38:56, ID: ahszero, Counter: 75
+2023-12-05 17:39:20 Time: 2023-12-05 17:39:20, ID: ahszero, Counter: 76
+2023-12-05 17:39:47 Time: 2023-12-05 17:39:47, ID: ahszero, Counter: 77
+2023-12-05 17:40:09 Time: 2023-12-05 17:40:09, ID: ahszero, Counter: 78
+2023-12-05 17:40:39 Time: 2023-12-05 17:40:39, ID: ahszero, Counter: 79
+2023-12-14 16:54:22 ====== WebDriver manager ======
+2023-12-14 16:54:24 Get LATEST chromedriver version for google-chrome
+2023-12-14 16:54:24 Get LATEST chromedriver version for google-chrome
+2023-12-14 16:54:24 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-14 16:57:21 ====== WebDriver manager ======
+2023-12-14 16:57:22 Get LATEST chromedriver version for google-chrome
+2023-12-14 16:57:22 Get LATEST chromedriver version for google-chrome
+2023-12-14 16:57:23 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-14 16:57:53 Time: 2023-12-14 16:57:53, ID: coolsalespro, Counter: 1
+2023-12-14 16:58:16 ====== WebDriver manager ======
+2023-12-14 16:58:18 Get LATEST chromedriver version for google-chrome
+2023-12-14 16:58:18 Get LATEST chromedriver version for google-chrome
+2023-12-14 16:58:18 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-14 17:05:47 ====== WebDriver manager ======
+2023-12-14 17:05:49 Get LATEST chromedriver version for google-chrome
+2023-12-14 17:05:49 Get LATEST chromedriver version for google-chrome
+2023-12-14 17:05:49 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-14 17:08:07 ====== WebDriver manager ======
+2023-12-14 17:08:09 Get LATEST chromedriver version for google-chrome
+2023-12-14 17:08:09 Get LATEST chromedriver version for google-chrome
+2023-12-14 17:08:09 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-14 17:08:39 Time: 2023-12-14 17:08:39, ID: coolsalespro, Counter: 1
+2023-12-14 17:25:23 ====== WebDriver manager ======
+2023-12-14 17:25:25 Get LATEST chromedriver version for google-chrome
+2023-12-14 17:25:25 Get LATEST chromedriver version for google-chrome
+2023-12-14 17:25:25 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-14 18:06:40 ====== WebDriver manager ======
+2023-12-14 18:06:42 Get LATEST chromedriver version for google-chrome
+2023-12-14 18:06:42 Get LATEST chromedriver version for google-chrome
+2023-12-14 18:06:42 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-14 20:09:21 ====== WebDriver manager ======
+2023-12-14 20:09:23 Get LATEST chromedriver version for google-chrome
+2023-12-14 20:09:23 Get LATEST chromedriver version for google-chrome
+2023-12-14 20:09:23 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-15 09:34:07 ====== WebDriver manager ======
+2023-12-15 09:34:08 Get LATEST chromedriver version for google-chrome
+2023-12-15 09:34:08 Get LATEST chromedriver version for google-chrome
+2023-12-15 09:34:08 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-15 09:34:39 Time: 2023-12-15 09:34:39, ID: coolsalespro, Counter: 1
+2023-12-15 10:13:20 ====== WebDriver manager ======
+2023-12-15 10:13:20 Get LATEST chromedriver version for google-chrome
+2023-12-15 10:13:20 Get LATEST chromedriver version for google-chrome
+2023-12-15 10:13:20 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 12:08:27 ====== WebDriver manager ======
+2023-12-17 12:08:28 Get LATEST chromedriver version for google-chrome
+2023-12-17 12:08:28 Get LATEST chromedriver version for google-chrome
+2023-12-17 12:08:28 Get LATEST chromedriver version for google-chrome
+2023-12-17 12:08:28 WebDriver version 120.0.6099.71 selected
+2023-12-17 12:08:28 Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6099.71/win32/chromedriver-win32.zip
+2023-12-17 12:08:28 About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6099.71/win32/chromedriver-win32.zip
+2023-12-17 12:08:28 Driver downloading response is 200
+2023-12-17 12:08:29 Get LATEST chromedriver version for google-chrome
+2023-12-17 12:08:30 Driver has been saved in cache [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71]
+2023-12-17 12:09:33 ====== WebDriver manager ======
+2023-12-17 12:09:33 Get LATEST chromedriver version for google-chrome
+2023-12-17 12:09:33 Get LATEST chromedriver version for google-chrome
+2023-12-17 12:09:33 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 12:10:18 ====== WebDriver manager ======
+2023-12-17 12:10:18 Get LATEST chromedriver version for google-chrome
+2023-12-17 12:10:18 Get LATEST chromedriver version for google-chrome
+2023-12-17 12:10:18 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 12:45:52 ====== WebDriver manager ======
+2023-12-17 12:45:52 Get LATEST chromedriver version for google-chrome
+2023-12-17 12:45:52 Get LATEST chromedriver version for google-chrome
+2023-12-17 12:45:52 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 13:09:23 ====== WebDriver manager ======
+2023-12-17 13:09:23 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:09:23 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:09:23 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 13:12:17 ====== WebDriver manager ======
+2023-12-17 13:12:18 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:12:18 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:12:18 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 13:13:35 ====== WebDriver manager ======
+2023-12-17 13:13:35 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:13:35 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:13:35 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 13:16:04 ====== WebDriver manager ======
+2023-12-17 13:16:04 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:16:04 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:16:04 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 13:18:52 ====== WebDriver manager ======
+2023-12-17 13:18:53 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:18:53 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:18:53 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 13:22:13 ====== WebDriver manager ======
+2023-12-17 13:22:14 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:22:14 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:22:14 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 13:22:48 Time: 2023-12-17 13:22:48, ID: coolsalespro, Counter: 1
+2023-12-17 13:46:37 ====== WebDriver manager ======
+2023-12-17 13:46:38 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:46:38 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:46:38 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 13:47:12 Time: 2023-12-17 13:47:12, ID: coolsalespro, Counter: 1
+2023-12-17 13:50:17 ====== WebDriver manager ======
+2023-12-17 13:50:17 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:50:18 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:50:18 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 13:50:52 Time: 2023-12-17 13:50:52, ID: coolsalespro, Counter: 1
+2023-12-17 13:51:15 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C16E73+174291]
+	(No symbol) [0x00B40AC1]
+	(No symbol) [0x00856FF6]
+	(No symbol) [0x00889876]
+	(No symbol) [0x00889C2C]
+	(No symbol) [0x008BBD42]
+	(No symbol) [0x008A7054]
+	(No symbol) [0x008BA104]
+	(No symbol) [0x008A6DA6]
+	(No symbol) [0x00881034]
+	(No symbol) [0x00881F8D]
+	GetHandleVerifier [0x00CB49CC+820268]
+	sqlite3_dbdata_init [0x00D74EBE+652494]
+	sqlite3_dbdata_init [0x00D748D9+650985]
+	sqlite3_dbdata_init [0x00D6962C+605244]
+	sqlite3_dbdata_init [0x00D7586B+654971]
+	(No symbol) [0x00B4FEBC]
+	(No symbol) [0x00B48428]
+	(No symbol) [0x00B4854D]
+	(No symbol) [0x00B35858]
+	BaseThreadInitThunk [0x779CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C3E+238]
+
+2023-12-17 13:57:23 ====== WebDriver manager ======
+2023-12-17 13:57:24 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:57:24 Get LATEST chromedriver version for google-chrome
+2023-12-17 13:57:24 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 13:57:59 Time: 2023-12-17 13:57:59, ID: coolsalespro, Counter: 1
+2023-12-17 14:05:37 ====== WebDriver manager ======
+2023-12-17 14:05:37 Get LATEST chromedriver version for google-chrome
+2023-12-17 14:05:37 Get LATEST chromedriver version for google-chrome
+2023-12-17 14:05:37 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 14:06:12 Time: 2023-12-17 14:06:12, ID: coolsalespro, Counter: 1
+2023-12-17 14:20:29 ====== WebDriver manager ======
+2023-12-17 14:20:30 Get LATEST chromedriver version for google-chrome
+2023-12-17 14:20:30 Get LATEST chromedriver version for google-chrome
+2023-12-17 14:20:30 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 14:21:05 Time: 2023-12-17 14:21:05, ID: coolsalespro, Counter: 1
+2023-12-17 14:39:57 ====== WebDriver manager ======
+2023-12-17 14:39:57 Get LATEST chromedriver version for google-chrome
+2023-12-17 14:39:58 Get LATEST chromedriver version for google-chrome
+2023-12-17 14:39:58 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 14:40:32 Time: 2023-12-17 14:40:32, ID: coolsalespro, Counter: 1
+2023-12-17 14:41:19 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C16E73+174291]
+	(No symbol) [0x00B40AC1]
+	(No symbol) [0x00856FF6]
+	(No symbol) [0x00889876]
+	(No symbol) [0x00889C2C]
+	(No symbol) [0x008BBD42]
+	(No symbol) [0x008A7054]
+	(No symbol) [0x008BA104]
+	(No symbol) [0x008A6DA6]
+	(No symbol) [0x00881034]
+	(No symbol) [0x00881F8D]
+	GetHandleVerifier [0x00CB49CC+820268]
+	sqlite3_dbdata_init [0x00D74EBE+652494]
+	sqlite3_dbdata_init [0x00D748D9+650985]
+	sqlite3_dbdata_init [0x00D6962C+605244]
+	sqlite3_dbdata_init [0x00D7586B+654971]
+	(No symbol) [0x00B4FEBC]
+	(No symbol) [0x00B48428]
+	(No symbol) [0x00B4854D]
+	(No symbol) [0x00B35858]
+	BaseThreadInitThunk [0x779CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C3E+238]
+
+2023-12-17 14:41:21 Time: 2023-12-17 14:41:21, ID: coolsalespro, Counter: 2
+2023-12-17 14:48:13 ====== WebDriver manager ======
+2023-12-17 14:48:14 Get LATEST chromedriver version for google-chrome
+2023-12-17 14:48:14 Get LATEST chromedriver version for google-chrome
+2023-12-17 14:48:14 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 14:48:48 Time: 2023-12-17 14:48:48, ID: coolsalespro, Counter: 1
+2023-12-17 14:53:48 ====== WebDriver manager ======
+2023-12-17 14:53:49 Get LATEST chromedriver version for google-chrome
+2023-12-17 14:53:49 Get LATEST chromedriver version for google-chrome
+2023-12-17 14:53:49 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 14:54:23 Time: 2023-12-17 14:54:23, ID: coolsalespro, Counter: 1
+2023-12-17 14:59:31 ====== WebDriver manager ======
+2023-12-17 14:59:32 Get LATEST chromedriver version for google-chrome
+2023-12-17 14:59:32 Get LATEST chromedriver version for google-chrome
+2023-12-17 14:59:32 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 15:00:06 Time: 2023-12-17 15:00:06, ID: coolsalespro, Counter: 1
+2023-12-17 15:11:36 ====== WebDriver manager ======
+2023-12-17 15:11:36 Get LATEST chromedriver version for google-chrome
+2023-12-17 15:11:36 Get LATEST chromedriver version for google-chrome
+2023-12-17 15:11:36 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 15:12:11 Time: 2023-12-17 15:12:11, ID: coolsalespro, Counter: 1
+2023-12-17 15:14:58 Time: 2023-12-17 15:14:58, ID: coolsalespro, Counter: 2
+2023-12-17 15:20:48 ====== WebDriver manager ======
+2023-12-17 15:20:49 Get LATEST chromedriver version for google-chrome
+2023-12-17 15:20:49 Get LATEST chromedriver version for google-chrome
+2023-12-17 15:20:49 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 15:21:24 Time: 2023-12-17 15:21:24, ID: coolsalespro, Counter: 1
+2023-12-17 15:26:55 ====== WebDriver manager ======
+2023-12-17 15:26:56 Get LATEST chromedriver version for google-chrome
+2023-12-17 15:26:56 Get LATEST chromedriver version for google-chrome
+2023-12-17 15:26:56 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 15:27:30 Time: 2023-12-17 15:27:30, ID: coolsalespro, Counter: 1
+2023-12-17 15:30:11 ====== WebDriver manager ======
+2023-12-17 15:30:12 Get LATEST chromedriver version for google-chrome
+2023-12-17 15:30:12 Get LATEST chromedriver version for google-chrome
+2023-12-17 15:30:12 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 15:30:46 Time: 2023-12-17 15:30:46, ID: coolsalespro, Counter: 1
+2023-12-17 15:45:45 ====== WebDriver manager ======
+2023-12-17 15:45:45 Get LATEST chromedriver version for google-chrome
+2023-12-17 15:45:45 Get LATEST chromedriver version for google-chrome
+2023-12-17 15:45:45 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 15:46:20 Time: 2023-12-17 15:46:20, ID: coolsalespro, Counter: 1
+2023-12-17 15:47:25 ====== WebDriver manager ======
+2023-12-17 15:47:25 Get LATEST chromedriver version for google-chrome
+2023-12-17 15:47:25 Get LATEST chromedriver version for google-chrome
+2023-12-17 15:47:25 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 15:48:00 Time: 2023-12-17 15:48:00, ID: coolsalespro, Counter: 1
+2023-12-17 15:58:33 ====== WebDriver manager ======
+2023-12-17 15:58:34 Get LATEST chromedriver version for google-chrome
+2023-12-17 15:58:34 Get LATEST chromedriver version for google-chrome
+2023-12-17 15:58:34 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 15:59:08 Time: 2023-12-17 15:59:08, ID: coolsalespro, Counter: 1
+2023-12-17 16:09:51 ====== WebDriver manager ======
+2023-12-17 16:09:52 Get LATEST chromedriver version for google-chrome
+2023-12-17 16:09:52 Get LATEST chromedriver version for google-chrome
+2023-12-17 16:09:52 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 16:10:26 Time: 2023-12-17 16:10:26, ID: coolsalespro, Counter: 1
+2023-12-17 16:16:17 ====== WebDriver manager ======
+2023-12-17 16:16:18 Get LATEST chromedriver version for google-chrome
+2023-12-17 16:16:18 Get LATEST chromedriver version for google-chrome
+2023-12-17 16:16:18 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 16:16:53 Time: 2023-12-17 16:16:53, ID: coolsalespro, Counter: 1
+2023-12-17 16:17:52 Time: 2023-12-17 16:17:52, ID: coolsalespro, Counter: 2
+2023-12-17 16:18:41 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C16E73+174291]
+	(No symbol) [0x00B40AC1]
+	(No symbol) [0x00856FF6]
+	(No symbol) [0x00889876]
+	(No symbol) [0x00889C2C]
+	(No symbol) [0x008BBD42]
+	(No symbol) [0x008A7054]
+	(No symbol) [0x008BA104]
+	(No symbol) [0x008A6DA6]
+	(No symbol) [0x00881034]
+	(No symbol) [0x00881F8D]
+	GetHandleVerifier [0x00CB49CC+820268]
+	sqlite3_dbdata_init [0x00D74EBE+652494]
+	sqlite3_dbdata_init [0x00D748D9+650985]
+	sqlite3_dbdata_init [0x00D6962C+605244]
+	sqlite3_dbdata_init [0x00D7586B+654971]
+	(No symbol) [0x00B4FEBC]
+	(No symbol) [0x00B48428]
+	(No symbol) [0x00B4854D]
+	(No symbol) [0x00B35858]
+	BaseThreadInitThunk [0x779CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C3E+238]
+
+2023-12-17 16:18:44 Time: 2023-12-17 16:18:44, ID: coolsalespro, Counter: 3
+2023-12-17 16:19:33 Time: 2023-12-17 16:19:33, ID: coolsalespro, Counter: 4
+2023-12-17 16:20:24 Time: 2023-12-17 16:20:24, ID: coolsalespro, Counter: 5
+2023-12-17 16:21:16 Time: 2023-12-17 16:21:16, ID: coolsalespro, Counter: 6
+2023-12-17 16:22:01 Time: 2023-12-17 16:22:01, ID: coolsalespro, Counter: 7
+2023-12-17 16:22:50 Time: 2023-12-17 16:22:50, ID: coolsalespro, Counter: 8
+2023-12-17 16:28:45 ====== WebDriver manager ======
+2023-12-17 16:28:46 Get LATEST chromedriver version for google-chrome
+2023-12-17 16:28:46 Get LATEST chromedriver version for google-chrome
+2023-12-17 16:28:46 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 16:29:21 Time: 2023-12-17 16:29:21, ID: ahszero, Counter: 1
+2023-12-17 16:30:11 Time: 2023-12-17 16:30:11, ID: ahszero, Counter: 2
+2023-12-17 16:31:08 Time: 2023-12-17 16:31:08, ID: ahszero, Counter: 3
+2023-12-17 16:32:00 Time: 2023-12-17 16:32:00, ID: ahszero, Counter: 4
+2023-12-17 16:32:54 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C16E73+174291]
+	(No symbol) [0x00B40AC1]
+	(No symbol) [0x00856FF6]
+	(No symbol) [0x00889876]
+	(No symbol) [0x00889C2C]
+	(No symbol) [0x008BBD42]
+	(No symbol) [0x008A7054]
+	(No symbol) [0x008BA104]
+	(No symbol) [0x008A6DA6]
+	(No symbol) [0x00881034]
+	(No symbol) [0x00881F8D]
+	GetHandleVerifier [0x00CB49CC+820268]
+	sqlite3_dbdata_init [0x00D74EBE+652494]
+	sqlite3_dbdata_init [0x00D748D9+650985]
+	sqlite3_dbdata_init [0x00D6962C+605244]
+	sqlite3_dbdata_init [0x00D7586B+654971]
+	(No symbol) [0x00B4FEBC]
+	(No symbol) [0x00B48428]
+	(No symbol) [0x00B4854D]
+	(No symbol) [0x00B35858]
+	BaseThreadInitThunk [0x779CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C3E+238]
+
+2023-12-17 16:32:57 Time: 2023-12-17 16:32:57, ID: ahszero, Counter: 5
+2023-12-17 16:33:50 Time: 2023-12-17 16:33:50, ID: ahszero, Counter: 6
+2023-12-17 16:34:50 Time: 2023-12-17 16:34:50, ID: ahszero, Counter: 7
+2023-12-17 16:35:45 Time: 2023-12-17 16:35:45, ID: ahszero, Counter: 8
+2023-12-17 16:36:41 Time: 2023-12-17 16:36:41, ID: ahszero, Counter: 9
+2023-12-17 16:37:34 Time: 2023-12-17 16:37:34, ID: ahszero, Counter: 10
+2023-12-17 16:38:24 Time: 2023-12-17 16:38:24, ID: ahszero, Counter: 11
+2023-12-17 17:32:01 ====== WebDriver manager ======
+2023-12-17 17:32:02 Get LATEST chromedriver version for google-chrome
+2023-12-17 17:32:02 Get LATEST chromedriver version for google-chrome
+2023-12-17 17:32:02 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 17:32:37 Time: 2023-12-17 17:32:37, ID: coolsalespro, Counter: 1
+2023-12-17 17:33:09 Time: 2023-12-17 17:33:09, ID: coolsalespro, Counter: 2
+2023-12-17 17:33:43 Time: 2023-12-17 17:33:43, ID: coolsalespro, Counter: 3
+2023-12-17 17:34:47 ====== WebDriver manager ======
+2023-12-17 17:34:48 Get LATEST chromedriver version for google-chrome
+2023-12-17 17:34:48 Get LATEST chromedriver version for google-chrome
+2023-12-17 17:34:48 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 17:35:22 Time: 2023-12-17 17:35:22, ID: coolsalespro, Counter: 1
+2023-12-17 17:36:01 Time: 2023-12-17 17:36:01, ID: coolsalespro, Counter: 2
+2023-12-17 17:38:33 ====== WebDriver manager ======
+2023-12-17 17:38:34 Get LATEST chromedriver version for google-chrome
+2023-12-17 17:38:34 Get LATEST chromedriver version for google-chrome
+2023-12-17 17:38:34 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 17:39:08 Time: 2023-12-17 17:39:08, ID: coolsalespro, Counter: 1
+2023-12-17 17:39:39 Time: 2023-12-17 17:39:39, ID: coolsalespro, Counter: 2
+2023-12-17 18:09:15 ====== WebDriver manager ======
+2023-12-17 18:09:15 Get LATEST chromedriver version for google-chrome
+2023-12-17 18:09:15 Get LATEST chromedriver version for google-chrome
+2023-12-17 18:09:15 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 18:09:50 Time: 2023-12-17 18:09:50, ID: jk272, Counter: 1
+2023-12-17 18:10:53 ====== WebDriver manager ======
+2023-12-17 18:10:54 Get LATEST chromedriver version for google-chrome
+2023-12-17 18:10:54 Get LATEST chromedriver version for google-chrome
+2023-12-17 18:10:54 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 18:11:29 Time: 2023-12-17 18:11:29, ID: jk272, Counter: 1
+2023-12-17 18:12:02 Time: 2023-12-17 18:12:02, ID: jk272, Counter: 2
+2023-12-17 18:17:22 ====== WebDriver manager ======
+2023-12-17 18:17:23 Get LATEST chromedriver version for google-chrome
+2023-12-17 18:17:23 Get LATEST chromedriver version for google-chrome
+2023-12-17 18:17:23 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 18:17:58 Time: 2023-12-17 18:17:58, ID: jk272, Counter: 1
+2023-12-17 18:19:03 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C16E73+174291]
+	(No symbol) [0x00B40AC1]
+	(No symbol) [0x00856FF6]
+	(No symbol) [0x00889876]
+	(No symbol) [0x00889C2C]
+	(No symbol) [0x008BBD42]
+	(No symbol) [0x008A7054]
+	(No symbol) [0x008BA104]
+	(No symbol) [0x008A6DA6]
+	(No symbol) [0x00881034]
+	(No symbol) [0x00881F8D]
+	GetHandleVerifier [0x00CB49CC+820268]
+	sqlite3_dbdata_init [0x00D74EBE+652494]
+	sqlite3_dbdata_init [0x00D748D9+650985]
+	sqlite3_dbdata_init [0x00D6962C+605244]
+	sqlite3_dbdata_init [0x00D7586B+654971]
+	(No symbol) [0x00B4FEBC]
+	(No symbol) [0x00B48428]
+	(No symbol) [0x00B4854D]
+	(No symbol) [0x00B35858]
+	BaseThreadInitThunk [0x779CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C3E+238]
+
+2023-12-17 18:19:05 Time: 2023-12-17 18:19:05, ID: jk272, Counter: 2
+2023-12-17 18:21:40 ====== WebDriver manager ======
+2023-12-17 18:21:40 Get LATEST chromedriver version for google-chrome
+2023-12-17 18:21:40 Get LATEST chromedriver version for google-chrome
+2023-12-17 18:21:40 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 18:22:15 Time: 2023-12-17 18:22:15, ID: jk272, Counter: 1
+2023-12-17 18:23:12 Time: 2023-12-17 18:23:12, ID: jk272, Counter: 2
+2023-12-17 18:24:07 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C16E73+174291]
+	(No symbol) [0x00B40AC1]
+	(No symbol) [0x00856FF6]
+	(No symbol) [0x00889876]
+	(No symbol) [0x00889C2C]
+	(No symbol) [0x008BBD42]
+	(No symbol) [0x008A7054]
+	(No symbol) [0x008BA104]
+	(No symbol) [0x008A6DA6]
+	(No symbol) [0x00881034]
+	(No symbol) [0x00881F8D]
+	GetHandleVerifier [0x00CB49CC+820268]
+	sqlite3_dbdata_init [0x00D74EBE+652494]
+	sqlite3_dbdata_init [0x00D748D9+650985]
+	sqlite3_dbdata_init [0x00D6962C+605244]
+	sqlite3_dbdata_init [0x00D7586B+654971]
+	(No symbol) [0x00B4FEBC]
+	(No symbol) [0x00B48428]
+	(No symbol) [0x00B4854D]
+	(No symbol) [0x00B35858]
+	BaseThreadInitThunk [0x779CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C3E+238]
+
+2023-12-17 18:24:10 Time: 2023-12-17 18:24:10, ID: jk272, Counter: 3
+2023-12-17 18:25:07 Time: 2023-12-17 18:25:07, ID: jk272, Counter: 4
+2023-12-17 18:26:04 Time: 2023-12-17 18:26:04, ID: jk272, Counter: 5
+2023-12-17 18:27:06 Time: 2023-12-17 18:27:06, ID: jk272, Counter: 6
+2023-12-17 18:27:58 Time: 2023-12-17 18:27:58, ID: jk272, Counter: 7
+2023-12-17 18:29:00 Time: 2023-12-17 18:29:00, ID: jk272, Counter: 8
+2023-12-17 18:29:59 Time: 2023-12-17 18:29:59, ID: jk272, Counter: 9
+2023-12-17 18:30:52 Time: 2023-12-17 18:30:52, ID: jk272, Counter: 10
+2023-12-17 18:31:53 Time: 2023-12-17 18:31:53, ID: jk272, Counter: 11
+2023-12-17 18:32:44 Time: 2023-12-17 18:32:44, ID: jk272, Counter: 12
+2023-12-17 18:33:38 Time: 2023-12-17 18:33:38, ID: jk272, Counter: 13
+2023-12-17 18:34:36 Time: 2023-12-17 18:34:36, ID: jk272, Counter: 14
+2023-12-17 18:35:40 Time: 2023-12-17 18:35:40, ID: jk272, Counter: 15
+2023-12-17 18:36:32 Time: 2023-12-17 18:36:32, ID: jk272, Counter: 16
+2023-12-17 18:37:23 Time: 2023-12-17 18:37:23, ID: jk272, Counter: 17
+2023-12-17 18:38:17 Time: 2023-12-17 18:38:17, ID: jk272, Counter: 18
+2023-12-17 18:39:11 Time: 2023-12-17 18:39:11, ID: jk272, Counter: 19
+2023-12-17 18:40:10 Time: 2023-12-17 18:40:10, ID: jk272, Counter: 20
+2023-12-17 18:41:11 Time: 2023-12-17 18:41:11, ID: jk272, Counter: 21
+2023-12-17 18:42:06 Time: 2023-12-17 18:42:06, ID: jk272, Counter: 22
+2023-12-17 18:43:02 Time: 2023-12-17 18:43:02, ID: jk272, Counter: 23
+2023-12-17 18:43:51 Time: 2023-12-17 18:43:51, ID: jk272, Counter: 24
+2023-12-17 18:44:48 Time: 2023-12-17 18:44:48, ID: jk272, Counter: 25
+2023-12-17 18:45:42 Time: 2023-12-17 18:45:42, ID: jk272, Counter: 26
+2023-12-17 18:46:31 Time: 2023-12-17 18:46:31, ID: jk272, Counter: 27
+2023-12-17 18:47:27 Time: 2023-12-17 18:47:27, ID: jk272, Counter: 28
+2023-12-17 18:49:58 Time: 2023-12-17 18:49:58, ID: jk272, Counter: 29
+2023-12-17 18:50:54 Time: 2023-12-17 18:50:54, ID: jk272, Counter: 30
+2023-12-17 18:51:49 Time: 2023-12-17 18:51:49, ID: jk272, Counter: 31
+2023-12-17 18:52:42 Time: 2023-12-17 18:52:42, ID: jk272, Counter: 32
+2023-12-17 18:53:35 Time: 2023-12-17 18:53:35, ID: jk272, Counter: 33
+2023-12-17 18:54:32 Time: 2023-12-17 18:54:32, ID: jk272, Counter: 34
+2023-12-17 18:55:30 Time: 2023-12-17 18:55:30, ID: jk272, Counter: 35
+2023-12-17 18:56:22 Time: 2023-12-17 18:56:22, ID: jk272, Counter: 36
+2023-12-17 18:57:17 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C16E73+174291]
+	(No symbol) [0x00B40AC1]
+	(No symbol) [0x00856FF6]
+	(No symbol) [0x00889876]
+	(No symbol) [0x00889C2C]
+	(No symbol) [0x008BBD42]
+	(No symbol) [0x008A7054]
+	(No symbol) [0x008BA104]
+	(No symbol) [0x008A6DA6]
+	(No symbol) [0x00881034]
+	(No symbol) [0x00881F8D]
+	GetHandleVerifier [0x00CB49CC+820268]
+	sqlite3_dbdata_init [0x00D74EBE+652494]
+	sqlite3_dbdata_init [0x00D748D9+650985]
+	sqlite3_dbdata_init [0x00D6962C+605244]
+	sqlite3_dbdata_init [0x00D7586B+654971]
+	(No symbol) [0x00B4FEBC]
+	(No symbol) [0x00B48428]
+	(No symbol) [0x00B4854D]
+	(No symbol) [0x00B35858]
+	BaseThreadInitThunk [0x779CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C3E+238]
+
+2023-12-17 18:57:20 Time: 2023-12-17 18:57:20, ID: jk272, Counter: 37
+2023-12-17 18:58:17 Time: 2023-12-17 18:58:17, ID: jk272, Counter: 38
+2023-12-17 18:59:18 Time: 2023-12-17 18:59:18, ID: jk272, Counter: 39
+2023-12-17 19:00:19 Time: 2023-12-17 19:00:19, ID: jk272, Counter: 40
+2023-12-17 19:01:16 Time: 2023-12-17 19:01:16, ID: jk272, Counter: 41
+2023-12-17 19:02:08 Time: 2023-12-17 19:02:08, ID: jk272, Counter: 42
+2023-12-17 19:03:07 Time: 2023-12-17 19:03:07, ID: jk272, Counter: 43
+2023-12-17 19:04:03 Time: 2023-12-17 19:04:03, ID: jk272, Counter: 44
+2023-12-17 19:04:59 Time: 2023-12-17 19:04:59, ID: jk272, Counter: 45
+2023-12-17 19:05:51 Time: 2023-12-17 19:05:51, ID: jk272, Counter: 46
+2023-12-17 19:06:50 Time: 2023-12-17 19:06:50, ID: jk272, Counter: 47
+2023-12-17 19:07:43 Time: 2023-12-17 19:07:43, ID: jk272, Counter: 48
+2023-12-17 20:29:50 ====== WebDriver manager ======
+2023-12-17 20:29:50 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:29:50 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:29:50 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 20:31:47 ====== WebDriver manager ======
+2023-12-17 20:31:48 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:31:48 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:31:48 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 20:46:19 ====== WebDriver manager ======
+2023-12-17 20:46:20 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:46:20 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:46:20 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 20:46:54 Time: 2023-12-17 20:46:54, ID: phonehe77, Counter: 1
+2023-12-17 20:46:55 ====== WebDriver manager ======
+2023-12-17 20:46:56 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:46:56 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:46:56 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 20:47:34 Time: 2023-12-17 20:47:34, ID: ahszero, Counter: 1
+2023-12-17 20:47:34 ====== WebDriver manager ======
+2023-12-17 20:47:35 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:47:35 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:47:35 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 20:48:13 Time: 2023-12-17 20:48:13, ID: jk272, Counter: 1
+2023-12-17 20:48:14 ====== WebDriver manager ======
+2023-12-17 20:48:14 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:48:14 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:48:14 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 20:48:53 Time: 2023-12-17 20:48:53, ID: eocntjsanf, Counter: 1
+2023-12-17 20:52:27 ====== WebDriver manager ======
+2023-12-17 20:52:28 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:52:28 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:52:28 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 20:53:04 Time: 2023-12-17 20:53:04, ID: phonehe77, Counter: 1
+2023-12-17 20:53:05 ====== WebDriver manager ======
+2023-12-17 20:53:05 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:53:05 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:53:05 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 20:57:25 ====== WebDriver manager ======
+2023-12-17 20:57:25 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:57:25 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:57:25 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 20:58:00 Time: 2023-12-17 20:58:00, ID: phonehe77, Counter: 1
+2023-12-17 20:58:00 ====== WebDriver manager ======
+2023-12-17 20:58:01 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:58:01 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:58:01 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 20:58:39 Time: 2023-12-17 20:58:39, ID: eocntjsanf, Counter: 1
+2023-12-17 20:58:39 ====== WebDriver manager ======
+2023-12-17 20:58:40 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:58:40 Get LATEST chromedriver version for google-chrome
+2023-12-17 20:58:40 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 20:59:18 Time: 2023-12-17 20:59:18, ID: coolsalespro, Counter: 1
+2023-12-17 21:06:09 ====== WebDriver manager ======
+2023-12-17 21:06:09 Get LATEST chromedriver version for google-chrome
+2023-12-17 21:06:09 Get LATEST chromedriver version for google-chrome
+2023-12-17 21:06:09 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 21:06:54 Time: 2023-12-17 21:06:54, ID: phonehe77, Counter: 1
+2023-12-17 21:08:02 Time: 2023-12-17 21:08:02, ID: phonehe77, Counter: 2
+2023-12-17 21:13:57 ====== WebDriver manager ======
+2023-12-17 21:13:58 Get LATEST chromedriver version for google-chrome
+2023-12-17 21:13:58 Get LATEST chromedriver version for google-chrome
+2023-12-17 21:13:58 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 21:14:32 Time: 2023-12-17 21:14:32, ID: coolsalespro, Counter: 1
+2023-12-17 21:14:55 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C16E73+174291]
+	(No symbol) [0x00B40AC1]
+	(No symbol) [0x00856FF6]
+	(No symbol) [0x00889876]
+	(No symbol) [0x00889C2C]
+	(No symbol) [0x008BBD42]
+	(No symbol) [0x008A7054]
+	(No symbol) [0x008BA104]
+	(No symbol) [0x008A6DA6]
+	(No symbol) [0x00881034]
+	(No symbol) [0x00881F8D]
+	GetHandleVerifier [0x00CB49CC+820268]
+	sqlite3_dbdata_init [0x00D74EBE+652494]
+	sqlite3_dbdata_init [0x00D748D9+650985]
+	sqlite3_dbdata_init [0x00D6962C+605244]
+	sqlite3_dbdata_init [0x00D7586B+654971]
+	(No symbol) [0x00B4FEBC]
+	(No symbol) [0x00B48428]
+	(No symbol) [0x00B4854D]
+	(No symbol) [0x00B35858]
+	BaseThreadInitThunk [0x779CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C3E+238]
+
+2023-12-17 21:15:47 Time: 2023-12-17 21:15:47, ID: coolsalespro, Counter: 2
+2023-12-17 21:26:12 ====== WebDriver manager ======
+2023-12-17 21:26:13 Get LATEST chromedriver version for google-chrome
+2023-12-17 21:26:13 Get LATEST chromedriver version for google-chrome
+2023-12-17 21:26:13 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 21:26:47 Time: 2023-12-17 21:26:47, ID: coolsalespro, Counter: 1
+2023-12-17 21:27:37 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C16E73+174291]
+	(No symbol) [0x00B40AC1]
+	(No symbol) [0x00856FF6]
+	(No symbol) [0x00889876]
+	(No symbol) [0x00889C2C]
+	(No symbol) [0x008BBD42]
+	(No symbol) [0x008A7054]
+	(No symbol) [0x008BA104]
+	(No symbol) [0x008A6DA6]
+	(No symbol) [0x00881034]
+	(No symbol) [0x00881F8D]
+	GetHandleVerifier [0x00CB49CC+820268]
+	sqlite3_dbdata_init [0x00D74EBE+652494]
+	sqlite3_dbdata_init [0x00D748D9+650985]
+	sqlite3_dbdata_init [0x00D6962C+605244]
+	sqlite3_dbdata_init [0x00D7586B+654971]
+	(No symbol) [0x00B4FEBC]
+	(No symbol) [0x00B48428]
+	(No symbol) [0x00B4854D]
+	(No symbol) [0x00B35858]
+	BaseThreadInitThunk [0x779CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C3E+238]
+
+2023-12-17 21:27:44 Time: 2023-12-17 21:27:44, ID: coolsalespro, Counter: 2
+2023-12-17 21:29:02 Time: 2023-12-17 21:29:02, ID: coolsalespro, Counter: 3
+2023-12-17 21:29:03 ====== WebDriver manager ======
+2023-12-17 21:29:04 Get LATEST chromedriver version for google-chrome
+2023-12-17 21:29:04 Get LATEST chromedriver version for google-chrome
+2023-12-17 21:29:04 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 21:29:42 Time: 2023-12-17 21:29:42, ID: eocntjsanf, Counter: 1
+2023-12-17 21:30:47 Time: 2023-12-17 21:30:47, ID: eocntjsanf, Counter: 2
+2023-12-17 21:32:07 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00C16E73+174291]
+	(No symbol) [0x00B40AC1]
+	(No symbol) [0x00856FF6]
+	(No symbol) [0x00889876]
+	(No symbol) [0x00889C2C]
+	(No symbol) [0x008BBD42]
+	(No symbol) [0x008A7054]
+	(No symbol) [0x008BA104]
+	(No symbol) [0x008A6DA6]
+	(No symbol) [0x00881034]
+	(No symbol) [0x00881F8D]
+	GetHandleVerifier [0x00CB49CC+820268]
+	sqlite3_dbdata_init [0x00D74EBE+652494]
+	sqlite3_dbdata_init [0x00D748D9+650985]
+	sqlite3_dbdata_init [0x00D6962C+605244]
+	sqlite3_dbdata_init [0x00D7586B+654971]
+	(No symbol) [0x00B4FEBC]
+	(No symbol) [0x00B48428]
+	(No symbol) [0x00B4854D]
+	(No symbol) [0x00B35858]
+	BaseThreadInitThunk [0x779CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C3E+238]
+
+2023-12-17 21:32:10 Time: 2023-12-17 21:32:10, ID: eocntjsanf, Counter: 3
+2023-12-17 21:32:10 ====== WebDriver manager ======
+2023-12-17 21:32:11 Get LATEST chromedriver version for google-chrome
+2023-12-17 21:32:11 Get LATEST chromedriver version for google-chrome
+2023-12-17 21:32:11 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 21:32:50 Time: 2023-12-17 21:32:50, ID: phonehe77, Counter: 1
+2023-12-17 21:33:48 Time: 2023-12-17 21:33:48, ID: phonehe77, Counter: 2
+2023-12-17 21:34:44 Time: 2023-12-17 21:34:44, ID: phonehe77, Counter: 3
+2023-12-23 10:00:07 ====== WebDriver manager ======
+2023-12-23 10:00:08 Get LATEST chromedriver version for google-chrome
+2023-12-23 10:00:08 Get LATEST chromedriver version for google-chrome
+2023-12-23 10:00:08 Get LATEST chromedriver version for google-chrome
+2023-12-23 10:00:08 WebDriver version 120.0.6099.109 selected
+2023-12-23 10:00:08 Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6099.109/win32/chromedriver-win32.zip
+2023-12-23 10:00:08 About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6099.109/win32/chromedriver-win32.zip
+2023-12-23 10:00:08 Driver downloading response is 200
+2023-12-23 10:00:09 Get LATEST chromedriver version for google-chrome
+2023-12-23 10:00:09 Driver has been saved in cache [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.109]
+2023-12-23 10:03:32 ====== WebDriver manager ======
+2023-12-23 10:03:33 Get LATEST chromedriver version for google-chrome
+2023-12-23 10:03:33 Get LATEST chromedriver version for google-chrome
+2023-12-23 10:03:33 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-23 10:04:08 Time: 2023-12-23 10:04:08, ID: jk272, Counter: 1
+2023-12-23 10:05:46 ====== WebDriver manager ======
+2023-12-23 10:05:47 Get LATEST chromedriver version for google-chrome
+2023-12-23 10:05:47 Get LATEST chromedriver version for google-chrome
+2023-12-23 10:05:47 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-23 10:06:31 Time: 2023-12-23 10:06:31, ID: jk272, Counter: 1
+2023-12-23 10:22:53 ====== WebDriver manager ======
+2023-12-23 10:22:54 Get LATEST chromedriver version for google-chrome
+2023-12-23 10:22:54 Get LATEST chromedriver version for google-chrome
+2023-12-23 10:22:54 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-23 10:23:29 Time: 2023-12-23 10:23:29, ID: jk272, Counter: 1
+2023-12-23 10:30:40 ====== WebDriver manager ======
+2023-12-23 10:30:40 Get LATEST chromedriver version for google-chrome
+2023-12-23 10:30:40 Get LATEST chromedriver version for google-chrome
+2023-12-23 10:30:40 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-23 10:31:25 Time: 2023-12-23 10:31:25, ID: jk272, Counter: 1
+2023-12-23 10:32:44 Time: 2023-12-23 10:32:44, ID: jk272, Counter: 2
+2023-12-23 10:33:46 Time: 2023-12-23 10:33:46, ID: jk272, Counter: 3
+2023-12-23 12:39:38 ====== WebDriver manager ======
+2023-12-23 12:39:39 Get LATEST chromedriver version for google-chrome
+2023-12-23 12:39:39 Get LATEST chromedriver version for google-chrome
+2023-12-23 12:39:39 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-23 12:40:14 Time: 2023-12-23 12:40:14, ID: jk272, Counter: 1
+2023-12-23 12:47:56 ====== WebDriver manager ======
+2023-12-23 12:47:57 Get LATEST chromedriver version for google-chrome
+2023-12-23 12:47:57 Get LATEST chromedriver version for google-chrome
+2023-12-23 12:47:57 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-23 12:48:32 Time: 2023-12-23 12:48:32, ID: jk272, Counter: 1
+2023-12-23 12:49:21 Time: 2023-12-23 12:49:21, ID: jk272, Counter: 2
+2023-12-23 12:52:35 ====== WebDriver manager ======
+2023-12-23 12:52:36 Get LATEST chromedriver version for google-chrome
+2023-12-23 12:52:36 Get LATEST chromedriver version for google-chrome
+2023-12-23 12:52:36 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-23 12:53:12 Time: 2023-12-23 12:53:12, ID: jk272, Counter: 1
+2023-12-23 12:53:56 Time: 2023-12-23 12:53:56, ID: jk272, Counter: 2
+2023-12-25 10:15:42 ====== WebDriver manager ======
+2023-12-25 10:15:42 Get LATEST chromedriver version for google-chrome
+2023-12-25 10:15:42 Get LATEST chromedriver version for google-chrome
+2023-12-25 10:15:42 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-25 10:16:17 Time: 2023-12-25 10:16:17, ID: coolsalespro, Counter: 1
+2023-12-25 10:16:56 Time: 2023-12-25 10:16:56, ID: coolsalespro, Counter: 2
+2023-12-25 10:17:33 Time: 2023-12-25 10:17:33, ID: coolsalespro, Counter: 3
+2023-12-25 10:18:13 Time: 2023-12-25 10:18:13, ID: coolsalespro, Counter: 4
+2023-12-25 10:18:52 Time: 2023-12-25 10:18:52, ID: coolsalespro, Counter: 5
+2023-12-25 10:19:34 Time: 2023-12-25 10:19:34, ID: coolsalespro, Counter: 6
+2023-12-25 10:20:15 Time: 2023-12-25 10:20:15, ID: coolsalespro, Counter: 7
+2023-12-25 10:20:53 Time: 2023-12-25 10:20:53, ID: coolsalespro, Counter: 8
+2023-12-25 10:21:34 Time: 2023-12-25 10:21:34, ID: coolsalespro, Counter: 9
+2023-12-25 10:22:21 Time: 2023-12-25 10:22:21, ID: coolsalespro, Counter: 10
+2023-12-25 10:23:07 Time: 2023-12-25 10:23:07, ID: coolsalespro, Counter: 11
+2023-12-25 10:23:53 Time: 2023-12-25 10:23:53, ID: coolsalespro, Counter: 12
+2023-12-25 10:24:35 Time: 2023-12-25 10:24:35, ID: coolsalespro, Counter: 13
+2023-12-25 10:25:25 Time: 2023-12-25 10:25:25, ID: coolsalespro, Counter: 14
+2023-12-25 10:26:06 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008A6EE3+174339]
+	(No symbol) [0x007D0A51]
+	(No symbol) [0x004E6FF6]
+	(No symbol) [0x00519876]
+	(No symbol) [0x00519C2C]
+	(No symbol) [0x0054BD42]
+	(No symbol) [0x00537054]
+	(No symbol) [0x0054A104]
+	(No symbol) [0x00536DA6]
+	(No symbol) [0x00511034]
+	(No symbol) [0x00511F8D]
+	GetHandleVerifier [0x00944B1C+820540]
+	sqlite3_dbdata_init [0x00A053EE+653550]
+	sqlite3_dbdata_init [0x00A04E09+652041]
+	sqlite3_dbdata_init [0x009F97CC+605388]
+	sqlite3_dbdata_init [0x00A05D9B+656027]
+	(No symbol) [0x007DFE6C]
+	(No symbol) [0x007D83B8]
+	(No symbol) [0x007D84DD]
+	(No symbol) [0x007C5818]
+	BaseThreadInitThunk [0x779CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C3E+238]
+
+2023-12-25 10:26:09 Time: 2023-12-25 10:26:09, ID: coolsalespro, Counter: 15
+2023-12-25 13:54:37 ====== WebDriver manager ======
+2023-12-25 13:54:37 Get LATEST chromedriver version for google-chrome
+2023-12-25 13:54:37 Get LATEST chromedriver version for google-chrome
+2023-12-25 13:54:37 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-25 13:55:13 Time: 2023-12-25 13:55:13, ID: coolsalespro, Counter: 1
+2023-12-25 13:55:54 Time: 2023-12-25 13:55:54, ID: coolsalespro, Counter: 2
+2023-12-25 13:56:39 Time: 2023-12-25 13:56:39, ID: coolsalespro, Counter: 3
+2023-12-25 13:57:28 Time: 2023-12-25 13:57:28, ID: coolsalespro, Counter: 4
+2023-12-25 13:58:12 Time: 2023-12-25 13:58:12, ID: coolsalespro, Counter: 5
+2023-12-25 13:58:52 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x008A6EE3+174339]
+	(No symbol) [0x007D0A51]
+	(No symbol) [0x004E6FF6]
+	(No symbol) [0x00519876]
+	(No symbol) [0x00519C2C]
+	(No symbol) [0x0054BD42]
+	(No symbol) [0x00537054]
+	(No symbol) [0x0054A104]
+	(No symbol) [0x00536DA6]
+	(No symbol) [0x00511034]
+	(No symbol) [0x00511F8D]
+	GetHandleVerifier [0x00944B1C+820540]
+	sqlite3_dbdata_init [0x00A053EE+653550]
+	sqlite3_dbdata_init [0x00A04E09+652041]
+	sqlite3_dbdata_init [0x009F97CC+605388]
+	sqlite3_dbdata_init [0x00A05D9B+656027]
+	(No symbol) [0x007DFE6C]
+	(No symbol) [0x007D83B8]
+	(No symbol) [0x007D84DD]
+	(No symbol) [0x007C5818]
+	BaseThreadInitThunk [0x779CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C3E+238]
+
+2023-12-25 13:58:54 Time: 2023-12-25 13:58:54, ID: coolsalespro, Counter: 6
+2023-12-25 13:59:46 Time: 2023-12-25 13:59:46, ID: coolsalespro, Counter: 7
+2023-12-25 14:00:26 Time: 2023-12-25 14:00:26, ID: coolsalespro, Counter: 8
+2023-12-25 14:01:08 Time: 2023-12-25 14:01:08, ID: coolsalespro, Counter: 9
+2023-12-25 14:01:54 Time: 2023-12-25 14:01:54, ID: coolsalespro, Counter: 10
+2023-12-25 14:02:37 Time: 2023-12-25 14:02:37, ID: coolsalespro, Counter: 11
+2023-12-25 14:03:18 Time: 2023-12-25 14:03:18, ID: coolsalespro, Counter: 12
+2023-12-25 14:03:55 Time: 2023-12-25 14:03:55, ID: coolsalespro, Counter: 13
+2023-12-25 14:04:36 Time: 2023-12-25 14:04:36, ID: coolsalespro, Counter: 14
+2023-12-25 14:05:12 Time: 2023-12-25 14:05:12, ID: coolsalespro, Counter: 15
+2023-12-25 14:05:58 Time: 2023-12-25 14:05:58, ID: coolsalespro, Counter: 15
+2023-12-25 14:12:01 ====== WebDriver manager ======
+2023-12-25 14:12:02 Get LATEST chromedriver version for google-chrome
+2023-12-25 14:12:02 Get LATEST chromedriver version for google-chrome
+2023-12-25 14:12:02 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-25 14:12:37 Time: 2023-12-25 14:12:37, ID: coolsalespro, Counter: 1
+2023-12-25 14:15:20 ====== WebDriver manager ======
+2023-12-25 14:15:20 Get LATEST chromedriver version for google-chrome
+2023-12-25 14:15:20 Get LATEST chromedriver version for google-chrome
+2023-12-25 14:15:20 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-25 14:15:56 Time: 2023-12-25 14:15:56, ID: coolsalespro, Counter: 1
+2023-12-26 10:47:24 ====== WebDriver manager ======
+2023-12-26 10:47:25 Get LATEST chromedriver version for google-chrome
+2023-12-26 10:47:25 Get LATEST chromedriver version for google-chrome
+2023-12-26 10:47:25 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-26 10:49:10 ====== WebDriver manager ======
+2023-12-26 10:49:10 Get LATEST chromedriver version for google-chrome
+2023-12-26 10:49:10 Get LATEST chromedriver version for google-chrome
+2023-12-26 10:49:10 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-26 10:49:45 Time: 2023-12-26 10:49:45, ID: coolsalespro, Counter: 1
+2023-12-26 10:50:41 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00746EE3+174339]
+	(No symbol) [0x00670A51]
+	(No symbol) [0x00386FF6]
+	(No symbol) [0x003B9876]
+	(No symbol) [0x003B9C2C]
+	(No symbol) [0x003EBD42]
+	(No symbol) [0x003D7054]
+	(No symbol) [0x003EA104]
+	(No symbol) [0x003D6DA6]
+	(No symbol) [0x003B1034]
+	(No symbol) [0x003B1F8D]
+	GetHandleVerifier [0x007E4B1C+820540]
+	sqlite3_dbdata_init [0x008A53EE+653550]
+	sqlite3_dbdata_init [0x008A4E09+652041]
+	sqlite3_dbdata_init [0x008997CC+605388]
+	sqlite3_dbdata_init [0x008A5D9B+656027]
+	(No symbol) [0x0067FE6C]
+	(No symbol) [0x006783B8]
+	(No symbol) [0x006784DD]
+	(No symbol) [0x00665818]
+	BaseThreadInitThunk [0x779CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C3E+238]
+
+2023-12-26 10:51:06 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00746EE3+174339]
+	(No symbol) [0x00670A51]
+	(No symbol) [0x00386FF6]
+	(No symbol) [0x003B9876]
+	(No symbol) [0x003B9C2C]
+	(No symbol) [0x003EBD42]
+	(No symbol) [0x003D7054]
+	(No symbol) [0x003EA104]
+	(No symbol) [0x003D6DA6]
+	(No symbol) [0x003B1034]
+	(No symbol) [0x003B1F8D]
+	GetHandleVerifier [0x007E4B1C+820540]
+	sqlite3_dbdata_init [0x008A53EE+653550]
+	sqlite3_dbdata_init [0x008A4E09+652041]
+	sqlite3_dbdata_init [0x008997CC+605388]
+	sqlite3_dbdata_init [0x008A5D9B+656027]
+	(No symbol) [0x0067FE6C]
+	(No symbol) [0x006783B8]
+	(No symbol) [0x006784DD]
+	(No symbol) [0x00665818]
+	BaseThreadInitThunk [0x779CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77CE7C3E+238]
+
+2023-12-26 11:12:58 ====== WebDriver manager ======
+2023-12-26 11:12:59 Get LATEST chromedriver version for google-chrome
+2023-12-26 11:12:59 Get LATEST chromedriver version for google-chrome
+2023-12-26 11:12:59 Driver [C:\Users\light\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-26 11:13:34 Time: 2023-12-26 11:13:34, ID: coolsalespro, Counter: 1
+2023-12-26 11:14:09 Time: 2023-12-26 11:14:09, ID: coolsalespro, Counter: 2
+2023-12-26 11:14:45 Time: 2023-12-26 11:14:45, ID: coolsalespro, Counter: 3
+2023-12-26 11:15:20 Time: 2023-12-26 11:15:20, ID: coolsalespro, Counter: 4
+2023-12-26 11:15:58 Time: 2023-12-26 11:15:58, ID: coolsalespro, Counter: 5
+2023-12-26 11:16:31 Time: 2023-12-26 11:16:31, ID: coolsalespro, Counter: 6
+2023-12-26 11:17:09 Time: 2023-12-26 11:17:09, ID: coolsalespro, Counter: 7
+2023-12-26 11:17:48 Time: 2023-12-26 11:17:48, ID: coolsalespro, Counter: 8
+2023-12-26 11:18:22 Time: 2023-12-26 11:18:22, ID: coolsalespro, Counter: 9
+2023-12-26 11:19:06 Time: 2023-12-26 11:19:06, ID: coolsalespro, Counter: 10
+2023-12-26 11:19:46 Time: 2023-12-26 11:19:46, ID: coolsalespro, Counter: 11
+2023-12-26 11:20:27 Time: 2023-12-26 11:20:27, ID: coolsalespro, Counter: 12
+2023-12-26 11:21:09 Time: 2023-12-26 11:21:09, ID: coolsalespro, Counter: 13
+2023-12-26 11:21:49 Time: 2023-12-26 11:21:49, ID: coolsalespro, Counter: 14
+2023-12-26 11:22:28 Time: 2023-12-26 11:22:28, ID: coolsalespro, Counter: 15
+2023-12-26 11:23:10 Time: 2023-12-26 11:23:10, ID: coolsalespro, Counter: 16
+2023-12-26 11:24:00 Time: 2023-12-26 11:24:00, ID: coolsalespro, Counter: 17
+2023-12-26 11:24:34 Time: 2023-12-26 11:24:34, ID: coolsalespro, Counter: 18
+2023-12-26 11:25:12 Time: 2023-12-26 11:25:12, ID: coolsalespro, Counter: 19
+2023-12-26 11:25:50 Time: 2023-12-26 11:25:50, ID: coolsalespro, Counter: 20
+2023-12-26 11:26:25 Time: 2023-12-26 11:26:25, ID: coolsalespro, Counter: 21
+2023-12-26 11:27:05 Time: 2023-12-26 11:27:05, ID: coolsalespro, Counter: 22
+2023-12-26 11:27:47 Time: 2023-12-26 11:27:47, ID: coolsalespro, Counter: 23

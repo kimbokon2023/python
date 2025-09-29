@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import NoSuchElementException, TimeoutException  # TimeoutException 추가
+from selenium.common.exceptions import NoSuchElementException, TimeoutException, ElementClickInterceptedException  # TimeoutException 추가
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.common.exceptions import NoSuchFrameException
@@ -12,6 +12,7 @@ import pyautogui
 import pyperclip
 import os
 import sys
+import tempfile
 from bs4 import BeautifulSoup
 import random
 import threading
@@ -29,14 +30,14 @@ import subprocess
 import psutil
 import requests
 from screeninfo import get_monitors
-import google.generativeai as genai
+from google import genai
 
 # ==============================================================
 # 전역 변수 및 초기 설정
 # ==============================================================
 # !!! 보안 경고: API 키를 코드에 직접 포함하는 것은 매우 위험합니다 !!!
 # !!! 이 키는 이미 노출되었을 수 있으므로 즉시 폐기하고 새로 발급받는 것을 강력히 권장합니다. !!!
-GEMINI_API_KEY = "AIzaSyDU4BBPxngNjSlI-xdwrIdN0TzWc10_Hyg" # <<< 사용자님이 제공한 실제 API 키
+GEMINI_API_KEY = "AIzaSyBekQSE8OW50YF-ZzLYXX9F4N9PL7CassA" # <<< 사용자님이 제공한 실제 API 키
 
 # Declare the global variable 'driver'
 driver = None
@@ -89,7 +90,7 @@ new_data = {
 }
 
 # 업데이트할 JSON 파일의 URL을 지정합니다.
-json_url = "http://8440.co.kr/data/idpw.json"
+json_url = "https://8440.co.kr/data/idpw.json"
 # jsonfile_path = os.path.join(application_path, 'data', 'idpw.json')
 
 repeat_count_var = tk.StringVar(window)
@@ -459,6 +460,11 @@ def naver_login():
         user_data = file.read().strip()  # Use strip() to remove any leading/trailing whitespace
 
     # options.add_argument(f"user-data-dir={user_data}")
+    # 충돌 방지를 위해 고유 프로필 디렉터리를 사용
+    temp_profiles_base = os.path.join(application_path, 'temp_profiles')
+    os.makedirs(temp_profiles_base, exist_ok=True)
+    unique_profile_dir = tempfile.mkdtemp(prefix="profile_", dir=temp_profiles_base)
+    options.add_argument(f"--user-data-dir={unique_profile_dir}")
     options.add_experimental_option("detach", True)  # 화면이 꺼지지 않고 유지
     # options.add_experimental_option("excludeSwiches", ["enabled-automation-icon"])  # chrome 자동화된 프로그램에 의해 제어되고 ' 문구 삭제
     options.add_argument("--start-maximized")  # 최대 크기로 시작
@@ -470,9 +476,18 @@ def naver_login():
     service = Service()
     driver = webdriver.Chrome(service=service, options=options)
     time.sleep(10)
-    x_coordinate = monitors[0].width
-    # Y 좌표는 0으로 설정하면 됩니다.
-    y_coordinate = 0
+    # 모니터 수에 따라 창 위치 지정: 듀얼 이상이면 가장 왼쪽 모니터, 아니면 기본(0,0)
+    try:
+        if len(monitors) >= 2:
+            left_monitor = sorted(monitors, key=lambda m: m.x)[0]
+            x_coordinate = left_monitor.x
+            y_coordinate = left_monitor.y
+        else:
+            x_coordinate = 0
+            y_coordinate = 0
+    except Exception:
+        x_coordinate = 0
+        y_coordinate = 0
     # Chrome WebDriver 생성
     driver.set_window_position(x_coordinate, y_coordinate)
     time.sleep(5)
@@ -486,15 +501,7 @@ def naver_login():
     pyautogui.press('esc')
     time.sleep(3)      
 
-    # x, y = pyautogui.position()
-    # print(f"현재 마우스 위치: ({x}, {y})")
-    
-    x, y = 427, 355
-    # 마우스를 x, y 좌표로 이동
-    pyautogui.moveTo(x, y)
-    # 좌표에서 클릭
-    pyautogui.click()
-    time.sleep(2)
+    # 좌표 기반 클릭 제거: 필드 직접 포커스 처리로 전환
     # 메모장 강제로 닫기
     # kill_notepad()
     id_field = wait_for_element(driver, By.CSS_SELECTOR, "#id")
@@ -768,11 +775,26 @@ def execute_action(reservation):
                         last_part = href.split('/')[-1]            
 
                         try:
-                            like_button = WebDriverWait(driver, 20).until(
-                                EC.element_to_be_clickable((By.CSS_SELECTOR, "._button.pcol2"))
-                            )
+                            try:
+                                like_button = WebDriverWait(driver, 20).until(
+                                    EC.element_to_be_clickable((By.XPATH, "/html/body/div[7]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div/div[10]/div[1]/div/table[2]/tbody/tr/td[2]/div[3]/div[1]/div[1]/div/div/div/a/span[1]/span"))
+                                )
+                            except TimeoutException:
+                                like_button = WebDriverWait(driver, 10).until(
+                                    EC.element_to_be_clickable((By.CSS_SELECTOR, "span.u_likeit_icon.__reaction__zeroface"))
+                                )
+                            # 클릭 전 스크롤 보정
+                            try:
+                                driver.execute_script("arguments[0].scrollIntoView({block: 'center', inline: 'nearest'});", like_button)
+                                time.sleep(0.2)
+                            except Exception:
+                                pass
                             like_button.click()
                             delaysecond()
+                        except ElementClickInterceptedException as e:
+                            logging.warning(f"Click intercepted, skipping this item: {e}")
+                            driver.switch_to.default_content()
+                            continue
                         except NoSuchElementException as e:
                             logging.error(f"Element not found: {e}")
                             break             
@@ -859,7 +881,7 @@ def execute_action(reservation):
                             # !!! API 키 직접 사용 !!!
                             if not GEMINI_API_KEY or GEMINI_API_KEY == "YOUR_API_KEY_HERE":
                                 raise ValueError("API 키가 설정되지 않았습니다.")
-                            genai.configure(api_key=GEMINI_API_KEY)
+                            client = genai.Client(api_key=GEMINI_API_KEY)
 
                             generation_config = {
                                 "temperature": 0.8,
@@ -874,19 +896,18 @@ def execute_action(reservation):
                             ]
 
                             # ✅ 최신, 빠른 모델로 설정
-                            model = genai.GenerativeModel(
-                                model_name="models/gemini-1.5-flash",  # 또는 models/gemini-1.5-pro 사용 가능
-                                generation_config=generation_config,
-                                safety_settings=safety_settings
-                            )
+                            model_name = "gemini-2.5-flash"
 
-                            text_to_paste = " 다른 사람이 작성한 블로그 게시글을 읽었습니다. 이 글 내용이 유용했고 감사하다는 점을 표현하는 짧고 공손한 글을 한국어로 생성해 주세요. 문장은 자연스럽게 '...요'체로 끝맺고, 30자 내외로 간결하게 작성해 주세요. '댓글'이나 '블로그' 관련 단어는 포함하지 마세요. '와' 이렇게 답변하는것은 피해주세요."
+                            text_to_paste = " 아래 글을 읽고, 타인의 기분을 해치지 않도록 배려하며, 짧고 센스있게 한국어로 한 줄 반응을 작성해 주세요. 단조롭지 않게 표현하되 과장이나 반말은 피하고, 자연스러운 '~요'체로 마무리해 주세요. '댓글', '블로그' 같은 메타 단어와 감정 유발 표현은 제외해 주세요. 글자 수는 25~40자로 간결하게 부탁드립니다."
                             prompt_parts = [ extracted_txt + text_to_paste ]
 
                             while retry_count < retry_limit:
                                 try:
-                                    response = model.generate_content(prompt_parts)
-                                    if response.parts:
+                                    response = client.models.generate_content(
+                                        model=model_name,
+                                        contents=prompt_parts
+                                    )
+                                    if getattr(response, 'text', None):
                                         # 여기에 응답을 처리하는 코드를 작성하세요.
 
                                         sleep_with_esc(1)                
@@ -1126,11 +1147,26 @@ def execute_action(reservation):
                         driver.switch_to.frame(iframe)      
 
                         try:
-                            like_button = WebDriverWait(driver, 15).until(
-                                EC.element_to_be_clickable((By.CSS_SELECTOR, "._button.pcol2"))
-                            )
+                            try:
+                                like_button = WebDriverWait(driver, 15).until(
+                                    EC.element_to_be_clickable((By.XPATH, "/html/body/div[7]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div/div[10]/div[1]/div/table[2]/tbody/tr/td[2]/div[3]/div[1]/div[1]/div/div/div/a/span[1]/span"))
+                                )
+                            except TimeoutException:
+                                like_button = WebDriverWait(driver, 10).until(
+                                    EC.element_to_be_clickable((By.CSS_SELECTOR, "span.u_likeit_icon.__reaction__zeroface"))
+                                )
+                            # 클릭 전 스크롤 보정
+                            try:
+                                driver.execute_script("arguments[0].scrollIntoView({block: 'center', inline: 'nearest'});", like_button)
+                                time.sleep(0.2)
+                            except Exception:
+                                pass
                             like_button.click()
                             delaysecond()
+                        except ElementClickInterceptedException as e:
+                            logging.warning(f"Click intercepted, skipping this item: {e}")
+                            driver.switch_to.default_content()
+                            continue
                         except NoSuchElementException as e:
                             logging.error(f"Element not found: {e}")
                             break             
@@ -1218,7 +1254,7 @@ def execute_action(reservation):
                             # !!! API 키 직접 사용 !!!
                             if not GEMINI_API_KEY or GEMINI_API_KEY == "YOUR_API_KEY_HERE":
                                 raise ValueError("API 키가 설정되지 않았습니다.")
-                            genai.configure(api_key=GEMINI_API_KEY)
+                            client = genai.Client(api_key=GEMINI_API_KEY)
 
                             generation_config = {
                                 "temperature": 0.8,
@@ -1233,19 +1269,18 @@ def execute_action(reservation):
                             ]
 
                             # ✅ 최신, 빠른 모델로 설정
-                            model = genai.GenerativeModel(
-                                model_name="models/gemini-1.5-flash",  # 또는 models/gemini-1.5-pro 사용 가능
-                                generation_config=generation_config,
-                                safety_settings=safety_settings
-                            )
+                            model_name = "gemini-2.5-flash"
 
-                            text_to_paste = " 다른 사람이 작성한 블로그 게시글을 읽었습니다. 이 글 내용이 유용했고 감사하다는 점을 표현하는 짧고 공손한 글을 한국어로 생성해 주세요. 문장은 자연스럽게 '...요'체로 끝맺고, 30자 내외로 간결하게 작성해 주세요. '댓글'이나 '블로그' 관련 단어는 포함하지 마세요. '와' 이렇게 답변하는것은 피해주세요."
+                            text_to_paste = " 아래 글을 읽고, 타인의 기분을 해치지 않도록 배려하며, 짧고 센스있게 한국어로 한 줄 반응을 작성해 주세요. 단조롭지 않게 표현하되 과장이나 반말은 피하고, 자연스러운 '~요'체로 마무리해 주세요. '댓글', '블로그' 같은 메타 단어와 감정 유발 표현은 제외해 주세요. 글자 수는 25~40자로 간결하게 부탁드립니다."
                             prompt_parts = [ extracted_txt + text_to_paste ]
 
                             while retry_count < retry_limit:
                                 try:
-                                    response = model.generate_content(prompt_parts)
-                                    if response.parts:
+                                    response = client.models.generate_content(
+                                        model=model_name,
+                                        contents=prompt_parts
+                                    )
+                                    if getattr(response, 'text', None):
                                         # 여기에 응답을 처리하는 코드를 작성하세요.
 
                                         sleep_with_esc(1)                

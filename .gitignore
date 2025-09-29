@@ -12,5 +12,18 @@
 !*.dxf
 !*.xlsm
 !*.xls
+!*.spec
+!*.exe
+!*.zip
+!*.srt
+!*.mp4
+!*.mp3
+!*.txt
+!*.json
+!*.ini
+!*.xlsx
+!*.xls
+!*.csv
+!*.log
 
 

@@ -1,0 +1,1296 @@
+2025-09-29 21:33:09 Time: 2025-09-29 21:33:09, ID: ays1023, Counter: 16
+2025-09-29 21:33:32 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff706451eb5+80197]
+	GetHandleVerifier [0x0x7ff706451f10+80288]
+	(No symbol) [0x0x7ff7061d02fa]
+	(No symbol) [0x0x7ff706227cd7]
+	(No symbol) [0x0x7ff706227f9c]
+	(No symbol) [0x0x7ff70627ba87]
+	(No symbol) [0x0x7ff7062503bf]
+	(No symbol) [0x0x7ff7062787fb]
+	(No symbol) [0x0x7ff706250153]
+	(No symbol) [0x0x7ff706218b02]
+	(No symbol) [0x0x7ff7062198d3]
+	GetHandleVerifier [0x0x7ff70670e83d+2949837]
+	GetHandleVerifier [0x0x7ff706708c6a+2926330]
+	GetHandleVerifier [0x0x7ff7067286c7+3055959]
+	GetHandleVerifier [0x0x7ff70646cfee+191102]
+	GetHandleVerifier [0x0x7ff7064750af+224063]
+	GetHandleVerifier [0x0x7ff70645af64+117236]
+	GetHandleVerifier [0x0x7ff70645b119+117673]
+	GetHandleVerifier [0x0x7ff7064410a8+11064]
+	BaseThreadInitThunk [0x0x7ff90e287bd4+20]
+	RtlUserThreadStart [0x0x7ff90ed2cee1+33]
+
+2025-09-29 21:33:39 Time: 2025-09-29 21:33:39, ID: ays1023, Counter: 17
+2025-09-29 21:34:02 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff706451eb5+80197]
+	GetHandleVerifier [0x0x7ff706451f10+80288]
+	(No symbol) [0x0x7ff7061d02fa]
+	(No symbol) [0x0x7ff706227cd7]
+	(No symbol) [0x0x7ff706227f9c]
+	(No symbol) [0x0x7ff70627ba87]
+	(No symbol) [0x0x7ff7062503bf]
+	(No symbol) [0x0x7ff7062787fb]
+	(No symbol) [0x0x7ff706250153]
+	(No symbol) [0x0x7ff706218b02]
+	(No symbol) [0x0x7ff7062198d3]
+	GetHandleVerifier [0x0x7ff70670e83d+2949837]
+	GetHandleVerifier [0x0x7ff706708c6a+2926330]
+	GetHandleVerifier [0x0x7ff7067286c7+3055959]
+	GetHandleVerifier [0x0x7ff70646cfee+191102]
+	GetHandleVerifier [0x0x7ff7064750af+224063]
+	GetHandleVerifier [0x0x7ff70645af64+117236]
+	GetHandleVerifier [0x0x7ff70645b119+117673]
+	GetHandleVerifier [0x0x7ff7064410a8+11064]
+	BaseThreadInitThunk [0x0x7ff90e287bd4+20]
+	RtlUserThreadStart [0x0x7ff90ed2cee1+33]
+
+2025-09-29 21:34:08 Time: 2025-09-29 21:34:08, ID: ays1023, Counter: 18
+2025-09-29 21:34:31 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff706451eb5+80197]
+	GetHandleVerifier [0x0x7ff706451f10+80288]
+	(No symbol) [0x0x7ff7061d02fa]
+	(No symbol) [0x0x7ff706227cd7]
+	(No symbol) [0x0x7ff706227f9c]
+	(No symbol) [0x0x7ff70627ba87]
+	(No symbol) [0x0x7ff7062503bf]
+	(No symbol) [0x0x7ff7062787fb]
+	(No symbol) [0x0x7ff706250153]
+	(No symbol) [0x0x7ff706218b02]
+	(No symbol) [0x0x7ff7062198d3]
+	GetHandleVerifier [0x0x7ff70670e83d+2949837]
+	GetHandleVerifier [0x0x7ff706708c6a+2926330]
+	GetHandleVerifier [0x0x7ff7067286c7+3055959]
+	GetHandleVerifier [0x0x7ff70646cfee+191102]
+	GetHandleVerifier [0x0x7ff7064750af+224063]
+	GetHandleVerifier [0x0x7ff70645af64+117236]
+	GetHandleVerifier [0x0x7ff70645b119+117673]
+	GetHandleVerifier [0x0x7ff7064410a8+11064]
+	BaseThreadInitThunk [0x0x7ff90e287bd4+20]
+	RtlUserThreadStart [0x0x7ff90ed2cee1+33]
+
+2025-09-29 21:34:37 Time: 2025-09-29 21:34:37, ID: ays1023, Counter: 19
+2025-09-29 21:35:00 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff706451eb5+80197]
+	GetHandleVerifier [0x0x7ff706451f10+80288]
+	(No symbol) [0x0x7ff7061d02fa]
+	(No symbol) [0x0x7ff706227cd7]
+	(No symbol) [0x0x7ff706227f9c]
+	(No symbol) [0x0x7ff70627ba87]
+	(No symbol) [0x0x7ff7062503bf]
+	(No symbol) [0x0x7ff7062787fb]
+	(No symbol) [0x0x7ff706250153]
+	(No symbol) [0x0x7ff706218b02]
+	(No symbol) [0x0x7ff7062198d3]
+	GetHandleVerifier [0x0x7ff70670e83d+2949837]
+	GetHandleVerifier [0x0x7ff706708c6a+2926330]
+	GetHandleVerifier [0x0x7ff7067286c7+3055959]
+	GetHandleVerifier [0x0x7ff70646cfee+191102]
+	GetHandleVerifier [0x0x7ff7064750af+224063]
+	GetHandleVerifier [0x0x7ff70645af64+117236]
+	GetHandleVerifier [0x0x7ff70645b119+117673]
+	GetHandleVerifier [0x0x7ff7064410a8+11064]
+	BaseThreadInitThunk [0x0x7ff90e287bd4+20]
+	RtlUserThreadStart [0x0x7ff90ed2cee1+33]
+
+2025-09-29 21:35:06 Time: 2025-09-29 21:35:06, ID: ays1023, Counter: 20
+2025-09-29 21:35:29 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff706451eb5+80197]
+	GetHandleVerifier [0x0x7ff706451f10+80288]
+	(No symbol) [0x0x7ff7061d02fa]
+	(No symbol) [0x0x7ff706227cd7]
+	(No symbol) [0x0x7ff706227f9c]
+	(No symbol) [0x0x7ff70627ba87]
+	(No symbol) [0x0x7ff7062503bf]
+	(No symbol) [0x0x7ff7062787fb]
+	(No symbol) [0x0x7ff706250153]
+	(No symbol) [0x0x7ff706218b02]
+	(No symbol) [0x0x7ff7062198d3]
+	GetHandleVerifier [0x0x7ff70670e83d+2949837]
+	GetHandleVerifier [0x0x7ff706708c6a+2926330]
+	GetHandleVerifier [0x0x7ff7067286c7+3055959]
+	GetHandleVerifier [0x0x7ff70646cfee+191102]
+	GetHandleVerifier [0x0x7ff7064750af+224063]
+	GetHandleVerifier [0x0x7ff70645af64+117236]
+	GetHandleVerifier [0x0x7ff70645b119+117673]
+	GetHandleVerifier [0x0x7ff7064410a8+11064]
+	BaseThreadInitThunk [0x0x7ff90e287bd4+20]
+	RtlUserThreadStart [0x0x7ff90ed2cee1+33]
+
+2025-09-30 04:47:10 Time: 2025-09-30 04:47:10, ID: v_box, Counter: 1
+2025-09-30 04:47:33 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff68fcd1eb5+80197]
+	GetHandleVerifier [0x0x7ff68fcd1f10+80288]
+	(No symbol) [0x0x7ff68fa502fa]
+	(No symbol) [0x0x7ff68faa7cd7]
+	(No symbol) [0x0x7ff68faa7f9c]
+	(No symbol) [0x0x7ff68fafba87]
+	(No symbol) [0x0x7ff68fad03bf]
+	(No symbol) [0x0x7ff68faf87fb]
+	(No symbol) [0x0x7ff68fad0153]
+	(No symbol) [0x0x7ff68fa98b02]
+	(No symbol) [0x0x7ff68fa998d3]
+	GetHandleVerifier [0x0x7ff68ff8e83d+2949837]
+	GetHandleVerifier [0x0x7ff68ff88c6a+2926330]
+	GetHandleVerifier [0x0x7ff68ffa86c7+3055959]
+	GetHandleVerifier [0x0x7ff68fcecfee+191102]
+	GetHandleVerifier [0x0x7ff68fcf50af+224063]
+	GetHandleVerifier [0x0x7ff68fcdaf64+117236]
+	GetHandleVerifier [0x0x7ff68fcdb119+117673]
+	GetHandleVerifier [0x0x7ff68fcc10a8+11064]
+	BaseThreadInitThunk [0x0x7ff90e287bd4+20]
+	RtlUserThreadStart [0x0x7ff90ed2cee1+33]
+
+2025-09-30 04:47:39 Time: 2025-09-30 04:47:39, ID: v_box, Counter: 2
+2025-09-30 04:48:02 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff68fcd1eb5+80197]
+	GetHandleVerifier [0x0x7ff68fcd1f10+80288]
+	(No symbol) [0x0x7ff68fa502fa]
+	(No symbol) [0x0x7ff68faa7cd7]
+	(No symbol) [0x0x7ff68faa7f9c]
+	(No symbol) [0x0x7ff68fafba87]
+	(No symbol) [0x0x7ff68fad03bf]
+	(No symbol) [0x0x7ff68faf87fb]
+	(No symbol) [0x0x7ff68fad0153]
+	(No symbol) [0x0x7ff68fa98b02]
+	(No symbol) [0x0x7ff68fa998d3]
+	GetHandleVerifier [0x0x7ff68ff8e83d+2949837]
+	GetHandleVerifier [0x0x7ff68ff88c6a+2926330]
+	GetHandleVerifier [0x0x7ff68ffa86c7+3055959]
+	GetHandleVerifier [0x0x7ff68fcecfee+191102]
+	GetHandleVerifier [0x0x7ff68fcf50af+224063]
+	GetHandleVerifier [0x0x7ff68fcdaf64+117236]
+	GetHandleVerifier [0x0x7ff68fcdb119+117673]
+	GetHandleVerifier [0x0x7ff68fcc10a8+11064]
+	BaseThreadInitThunk [0x0x7ff90e287bd4+20]
+	RtlUserThreadStart [0x0x7ff90ed2cee1+33]
+
+2025-09-30 04:48:10 Time: 2025-09-30 04:48:10, ID: v_box, Counter: 3
+2025-09-30 04:48:32 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff68fcd1eb5+80197]
+	GetHandleVerifier [0x0x7ff68fcd1f10+80288]
+	(No symbol) [0x0x7ff68fa502fa]
+	(No symbol) [0x0x7ff68faa7cd7]
+	(No symbol) [0x0x7ff68faa7f9c]
+	(No symbol) [0x0x7ff68fafba87]
+	(No symbol) [0x0x7ff68fad03bf]
+	(No symbol) [0x0x7ff68faf87fb]
+	(No symbol) [0x0x7ff68fad0153]
+	(No symbol) [0x0x7ff68fa98b02]
+	(No symbol) [0x0x7ff68fa998d3]
+	GetHandleVerifier [0x0x7ff68ff8e83d+2949837]
+	GetHandleVerifier [0x0x7ff68ff88c6a+2926330]
+	GetHandleVerifier [0x0x7ff68ffa86c7+3055959]
+	GetHandleVerifier [0x0x7ff68fcecfee+191102]
+	GetHandleVerifier [0x0x7ff68fcf50af+224063]
+	GetHandleVerifier [0x0x7ff68fcdaf64+117236]
+	GetHandleVerifier [0x0x7ff68fcdb119+117673]
+	GetHandleVerifier [0x0x7ff68fcc10a8+11064]
+	BaseThreadInitThunk [0x0x7ff90e287bd4+20]
+	RtlUserThreadStart [0x0x7ff90ed2cee1+33]
+
+2025-09-30 04:48:39 Time: 2025-09-30 04:48:39, ID: v_box, Counter: 4
+2025-09-30 04:49:01 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff68fcd1eb5+80197]
+	GetHandleVerifier [0x0x7ff68fcd1f10+80288]
+	(No symbol) [0x0x7ff68fa502fa]
+	(No symbol) [0x0x7ff68faa7cd7]
+	(No symbol) [0x0x7ff68faa7f9c]
+	(No symbol) [0x0x7ff68fafba87]
+	(No symbol) [0x0x7ff68fad03bf]
+	(No symbol) [0x0x7ff68faf87fb]
+	(No symbol) [0x0x7ff68fad0153]
+	(No symbol) [0x0x7ff68fa98b02]
+	(No symbol) [0x0x7ff68fa998d3]
+	GetHandleVerifier [0x0x7ff68ff8e83d+2949837]
+	GetHandleVerifier [0x0x7ff68ff88c6a+2926330]
+	GetHandleVerifier [0x0x7ff68ffa86c7+3055959]
+	GetHandleVerifier [0x0x7ff68fcecfee+191102]
+	GetHandleVerifier [0x0x7ff68fcf50af+224063]
+	GetHandleVerifier [0x0x7ff68fcdaf64+117236]
+	GetHandleVerifier [0x0x7ff68fcdb119+117673]
+	GetHandleVerifier [0x0x7ff68fcc10a8+11064]
+	BaseThreadInitThunk [0x0x7ff90e287bd4+20]
+	RtlUserThreadStart [0x0x7ff90ed2cee1+33]
+
+2025-09-30 04:49:08 Time: 2025-09-30 04:49:08, ID: v_box, Counter: 5
+2025-09-30 04:49:30 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff68fcd1eb5+80197]
+	GetHandleVerifier [0x0x7ff68fcd1f10+80288]
+	(No symbol) [0x0x7ff68fa502fa]
+	(No symbol) [0x0x7ff68faa7cd7]
+	(No symbol) [0x0x7ff68faa7f9c]
+	(No symbol) [0x0x7ff68fafba87]
+	(No symbol) [0x0x7ff68fad03bf]
+	(No symbol) [0x0x7ff68faf87fb]
+	(No symbol) [0x0x7ff68fad0153]
+	(No symbol) [0x0x7ff68fa98b02]
+	(No symbol) [0x0x7ff68fa998d3]
+	GetHandleVerifier [0x0x7ff68ff8e83d+2949837]
+	GetHandleVerifier [0x0x7ff68ff88c6a+2926330]
+	GetHandleVerifier [0x0x7ff68ffa86c7+3055959]
+	GetHandleVerifier [0x0x7ff68fcecfee+191102]
+	GetHandleVerifier [0x0x7ff68fcf50af+224063]
+	GetHandleVerifier [0x0x7ff68fcdaf64+117236]
+	GetHandleVerifier [0x0x7ff68fcdb119+117673]
+	GetHandleVerifier [0x0x7ff68fcc10a8+11064]
+	BaseThreadInitThunk [0x0x7ff90e287bd4+20]
+	RtlUserThreadStart [0x0x7ff90ed2cee1+33]
+
+2025-09-30 04:49:36 Time: 2025-09-30 04:49:36, ID: v_box, Counter: 6
+2025-09-30 04:49:59 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff68fcd1eb5+80197]
+	GetHandleVerifier [0x0x7ff68fcd1f10+80288]
+	(No symbol) [0x0x7ff68fa502fa]
+	(No symbol) [0x0x7ff68faa7cd7]
+	(No symbol) [0x0x7ff68faa7f9c]
+	(No symbol) [0x0x7ff68fafba87]
+	(No symbol) [0x0x7ff68fad03bf]
+	(No symbol) [0x0x7ff68faf87fb]
+	(No symbol) [0x0x7ff68fad0153]
+	(No symbol) [0x0x7ff68fa98b02]
+	(No symbol) [0x0x7ff68fa998d3]
+	GetHandleVerifier [0x0x7ff68ff8e83d+2949837]
+	GetHandleVerifier [0x0x7ff68ff88c6a+2926330]
+	GetHandleVerifier [0x0x7ff68ffa86c7+3055959]
+	GetHandleVerifier [0x0x7ff68fcecfee+191102]
+	GetHandleVerifier [0x0x7ff68fcf50af+224063]
+	GetHandleVerifier [0x0x7ff68fcdaf64+117236]
+	GetHandleVerifier [0x0x7ff68fcdb119+117673]
+	GetHandleVerifier [0x0x7ff68fcc10a8+11064]
+	BaseThreadInitThunk [0x0x7ff90e287bd4+20]
+	RtlUserThreadStart [0x0x7ff90ed2cee1+33]
+
+2025-09-30 04:50:05 Time: 2025-09-30 04:50:05, ID: v_box, Counter: 7
+2025-09-30 04:50:27 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff68fcd1eb5+80197]
+	GetHandleVerifier [0x0x7ff68fcd1f10+80288]
+	(No symbol) [0x0x7ff68fa502fa]
+	(No symbol) [0x0x7ff68faa7cd7]
+	(No symbol) [0x0x7ff68faa7f9c]
+	(No symbol) [0x0x7ff68fafba87]
+	(No symbol) [0x0x7ff68fad03bf]
+	(No symbol) [0x0x7ff68faf87fb]
+	(No symbol) [0x0x7ff68fad0153]
+	(No symbol) [0x0x7ff68fa98b02]
+	(No symbol) [0x0x7ff68fa998d3]
+	GetHandleVerifier [0x0x7ff68ff8e83d+2949837]
+	GetHandleVerifier [0x0x7ff68ff88c6a+2926330]
+	GetHandleVerifier [0x0x7ff68ffa86c7+3055959]
+	GetHandleVerifier [0x0x7ff68fcecfee+191102]
+	GetHandleVerifier [0x0x7ff68fcf50af+224063]
+	GetHandleVerifier [0x0x7ff68fcdaf64+117236]
+	GetHandleVerifier [0x0x7ff68fcdb119+117673]
+	GetHandleVerifier [0x0x7ff68fcc10a8+11064]
+	BaseThreadInitThunk [0x0x7ff90e287bd4+20]
+	RtlUserThreadStart [0x0x7ff90ed2cee1+33]
+
+2025-09-30 04:50:34 Time: 2025-09-30 04:50:34, ID: v_box, Counter: 8
+2025-09-30 05:43:59 Time: 2025-09-30 05:43:59, ID: v_box, Counter: 1
+2025-09-30 05:44:22 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff714197cd7]
+	(No symbol) [0x0x7ff714197f9c]
+	(No symbol) [0x0x7ff7141eba87]
+	(No symbol) [0x0x7ff7141c03bf]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 05:44:27 Time: 2025-09-30 05:44:27, ID: v_box, Counter: 2
+2025-09-30 05:44:49 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff714197cd7]
+	(No symbol) [0x0x7ff714197f9c]
+	(No symbol) [0x0x7ff7141eba87]
+	(No symbol) [0x0x7ff7141c03bf]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 05:44:55 Time: 2025-09-30 05:44:55, ID: v_box, Counter: 3
+2025-09-30 06:02:16 Time: 2025-09-30 06:02:16, ID: v_box, Counter: 1
+2025-09-30 06:02:39 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff714197cd7]
+	(No symbol) [0x0x7ff714197f9c]
+	(No symbol) [0x0x7ff7141eba87]
+	(No symbol) [0x0x7ff7141c03bf]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:02:42 AFC is enabled with max remote calls: 10.
+2025-09-30 06:02:59 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:03:25 Time: 2025-09-30 06:03:25, ID: v_box, Counter: 2
+2025-09-30 06:03:47 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff714197cd7]
+	(No symbol) [0x0x7ff714197f9c]
+	(No symbol) [0x0x7ff7141eba87]
+	(No symbol) [0x0x7ff7141c03bf]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:03:50 AFC is enabled with max remote calls: 10.
+2025-09-30 06:04:00 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:04:27 Time: 2025-09-30 06:04:27, ID: v_box, Counter: 3
+2025-09-30 06:04:50 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff714197cd7]
+	(No symbol) [0x0x7ff714197f9c]
+	(No symbol) [0x0x7ff7141eba87]
+	(No symbol) [0x0x7ff7141c03bf]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:04:53 AFC is enabled with max remote calls: 10.
+2025-09-30 06:04:58 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:05:22 Time: 2025-09-30 06:05:22, ID: v_box, Counter: 4
+2025-09-30 06:05:45 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff714197cd7]
+	(No symbol) [0x0x7ff714197f9c]
+	(No symbol) [0x0x7ff7141eba87]
+	(No symbol) [0x0x7ff7141c03bf]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:05:47 AFC is enabled with max remote calls: 10.
+2025-09-30 06:05:54 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:06:24 Time: 2025-09-30 06:06:24, ID: v_box, Counter: 5
+2025-09-30 06:15:23 Time: 2025-09-30 06:15:23, ID: v_box, Counter: 1
+2025-09-30 06:23:19 Time: 2025-09-30 06:23:19, ID: v_box, Counter: 1
+2025-09-30 06:23:23 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:23:25 Time: 2025-09-30 06:23:25, ID: v_box, Counter: 2
+2025-09-30 06:23:29 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:23:32 Time: 2025-09-30 06:23:32, ID: v_box, Counter: 3
+2025-09-30 06:25:39 Time: 2025-09-30 06:25:39, ID: v_box, Counter: 1
+2025-09-30 06:25:43 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:25:46 Time: 2025-09-30 06:25:46, ID: v_box, Counter: 2
+2025-09-30 06:25:50 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:25:52 Time: 2025-09-30 06:25:52, ID: v_box, Counter: 3
+2025-09-30 06:25:56 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:26:05 Time: 2025-09-30 06:26:05, ID: v_box, Counter: 4
+2025-09-30 06:26:09 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:26:12 Time: 2025-09-30 06:26:12, ID: v_box, Counter: 5
+2025-09-30 06:26:34 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff714197cd7]
+	(No symbol) [0x0x7ff714197f9c]
+	(No symbol) [0x0x7ff7141eba87]
+	(No symbol) [0x0x7ff7141c03bf]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:26:37 AFC is enabled with max remote calls: 10.
+2025-09-30 06:26:44 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:27:06 Time: 2025-09-30 06:27:06, ID: v_box, Counter: 6
+2025-09-30 06:27:09 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:27:12 Time: 2025-09-30 06:27:12, ID: v_box, Counter: 7
+2025-09-30 06:27:16 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:27:18 Time: 2025-09-30 06:27:18, ID: v_box, Counter: 8
+2025-09-30 06:27:22 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:27:25 Time: 2025-09-30 06:27:25, ID: v_box, Counter: 9
+2025-09-30 06:27:28 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:27:31 Time: 2025-09-30 06:27:31, ID: v_box, Counter: 10
+2025-09-30 06:27:34 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:27:37 Time: 2025-09-30 06:27:37, ID: v_box, Counter: 11
+2025-09-30 06:27:41 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:27:46 Time: 2025-09-30 06:27:46, ID: v_box, Counter: 12
+2025-09-30 06:27:50 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:27:52 Time: 2025-09-30 06:27:52, ID: v_box, Counter: 13
+2025-09-30 06:39:24 Time: 2025-09-30 06:39:24, ID: v_box, Counter: 1
+2025-09-30 06:40:06 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff714197cd7]
+	(No symbol) [0x0x7ff714197f9c]
+	(No symbol) [0x0x7ff7141eba87]
+	(No symbol) [0x0x7ff7141c03bf]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:40:09 AFC is enabled with max remote calls: 10.
+2025-09-30 06:40:15 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:40:39 Time: 2025-09-30 06:40:39, ID: v_box, Counter: 2
+2025-09-30 06:40:50 AFC is enabled with max remote calls: 10.
+2025-09-30 06:40:57 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:41:23 Time: 2025-09-30 06:41:23, ID: v_box, Counter: 3
+2025-09-30 06:41:36 AFC is enabled with max remote calls: 10.
+2025-09-30 06:41:45 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:42:17 Time: 2025-09-30 06:42:17, ID: v_box, Counter: 4
+2025-09-30 06:43:00 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff714197cd7]
+	(No symbol) [0x0x7ff714197f9c]
+	(No symbol) [0x0x7ff7141eba87]
+	(No symbol) [0x0x7ff7141c03bf]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:43:03 AFC is enabled with max remote calls: 10.
+2025-09-30 06:43:15 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:43:41 Time: 2025-09-30 06:43:41, ID: v_box, Counter: 5
+2025-09-30 06:44:05 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:44:08 Time: 2025-09-30 06:44:08, ID: v_box, Counter: 6
+2025-09-30 06:44:16 AFC is enabled with max remote calls: 10.
+2025-09-30 06:44:20 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:44:39 Time: 2025-09-30 06:44:39, ID: v_box, Counter: 7
+2025-09-30 06:44:47 AFC is enabled with max remote calls: 10.
+2025-09-30 06:45:00 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:45:27 Time: 2025-09-30 06:45:27, ID: v_box, Counter: 8
+2025-09-30 06:45:51 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:45:53 Time: 2025-09-30 06:45:53, ID: v_box, Counter: 9
+2025-09-30 06:46:05 AFC is enabled with max remote calls: 10.
+2025-09-30 06:46:15 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:46:33 Time: 2025-09-30 06:46:33, ID: v_box, Counter: 10
+2025-09-30 06:46:57 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:47:02 Time: 2025-09-30 06:47:02, ID: v_box, Counter: 11
+2025-09-30 06:47:26 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:47:28 Time: 2025-09-30 06:47:28, ID: v_box, Counter: 12
+2025-09-30 06:47:40 AFC is enabled with max remote calls: 10.
+2025-09-30 06:47:54 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:48:23 Time: 2025-09-30 06:48:23, ID: v_box, Counter: 13
+2025-09-30 06:49:06 Timeout while waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff714197cd7]
+	(No symbol) [0x0x7ff714197f9c]
+	(No symbol) [0x0x7ff7141eba87]
+	(No symbol) [0x0x7ff7141c03bf]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:49:09 AFC is enabled with max remote calls: 10.
+2025-09-30 06:49:19 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:49:37 Time: 2025-09-30 06:49:37, ID: v_box, Counter: 14
+2025-09-30 06:50:00 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:50:03 Time: 2025-09-30 06:50:03, ID: v_box, Counter: 15
+2025-09-30 06:50:27 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:50:29 Time: 2025-09-30 06:50:29, ID: v_box, Counter: 16
+2025-09-30 06:50:38 AFC is enabled with max remote calls: 10.
+2025-09-30 06:50:48 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:51:09 Time: 2025-09-30 06:51:09, ID: v_box, Counter: 17
+2025-09-30 06:51:18 AFC is enabled with max remote calls: 10.
+2025-09-30 06:51:26 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:51:58 Time: 2025-09-30 06:51:58, ID: v_box, Counter: 18
+2025-09-30 06:52:11 AFC is enabled with max remote calls: 10.
+2025-09-30 06:52:21 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:52:41 Time: 2025-09-30 06:52:41, ID: v_box, Counter: 19
+2025-09-30 06:53:05 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:53:11 Time: 2025-09-30 06:53:11, ID: v_box, Counter: 20
+2025-09-30 06:53:23 AFC is enabled with max remote calls: 10.
+2025-09-30 06:53:37 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-09-30 06:54:00 Time: 2025-09-30 06:54:00, ID: v_box, Counter: 21
+2025-09-30 06:54:44 Time: 2025-09-30 06:54:44, ID: withhomecare, Counter: 1
+2025-09-30 06:55:08 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:55:11 Time: 2025-09-30 06:55:11, ID: withhomecare, Counter: 2
+2025-09-30 06:55:34 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:55:37 Time: 2025-09-30 06:55:37, ID: withhomecare, Counter: 3
+2025-09-30 06:56:01 Click intercepted, skipping this item: Message: element click intercepted: Element is not clickable at point (32, 924)
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7143c1eb5+80197]
+	GetHandleVerifier [0x0x7ff7143c1f10+80288]
+	(No symbol) [0x0x7ff7141402fa]
+	(No symbol) [0x0x7ff71419fe69]
+	(No symbol) [0x0x7ff71419d7ee]
+	(No symbol) [0x0x7ff71419a731]
+	(No symbol) [0x0x7ff714199620]
+	(No symbol) [0x0x7ff71418abc8]
+	(No symbol) [0x0x7ff7141c037a]
+	(No symbol) [0x0x7ff71418a456]
+	(No symbol) [0x0x7ff7141c0590]
+	(No symbol) [0x0x7ff7141e87fb]
+	(No symbol) [0x0x7ff7141c0153]
+	(No symbol) [0x0x7ff714188b02]
+	(No symbol) [0x0x7ff7141898d3]
+	GetHandleVerifier [0x0x7ff71467e83d+2949837]
+	GetHandleVerifier [0x0x7ff714678c6a+2926330]
+	GetHandleVerifier [0x0x7ff7146986c7+3055959]
+	GetHandleVerifier [0x0x7ff7143dcfee+191102]
+	GetHandleVerifier [0x0x7ff7143e50af+224063]
+	GetHandleVerifier [0x0x7ff7143caf64+117236]
+	GetHandleVerifier [0x0x7ff7143cb119+117673]
+	GetHandleVerifier [0x0x7ff7143b10a8+11064]
+	BaseThreadInitThunk [0x0x7ff8819e7374+20]
+	RtlUserThreadStart [0x0x7ff8829fcc91+33]
+
+2025-09-30 06:56:03 Time: 2025-09-30 06:56:03, ID: withhomecare, Counter: 4
+2025-09-30 06:56:16 AFC is enabled with max remote calls: 10.
+2025-09-30 06:56:30 HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"

@@ -1,0 +1,74 @@
+[38060:39120:0930/054314.965:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:206] No machine level policy manager exists.
+[40396:22784:0930/054315.109:ERROR:ui\gl\direct_composition_support.cc:616] AMD VideoProcessorGetOutputExtension failed: 지정되지 않은 오류입니다. (0x80004005)
+[38060:44392:0930/054318.687:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[38060:39120:0930/054330.717:INFO:CONSOLE:0] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://nid.naver.com/nidlogin.login?mode=form&url=https://www.naver.com/ (0)
+[38060:39120:0930/054330.811:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054330.933:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054331.071:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054331.272:INFO:CONSOLE:2] "Error", source: https://wtm.pstatic.net/f42d54e/54ca873547d7da4dfa43.js (2)
+[38060:39120:0930/054331.305:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054331.414:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054331.938:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054332.522:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054334.061:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054337.255:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054339.394:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:44392:0930/054339.423:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[38060:39120:0930/054341.450:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054341.661:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054341.764:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054341.976:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054342.080:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054342.281:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054342.478:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054342.584:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054342.696:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054342.798:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054342.900:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054343.012:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054343.115:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054343.232:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054343.348:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054343.464:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054344.582:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054345.741:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054346.742:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054346.852:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054346.957:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054347.072:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054347.188:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054347.294:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054347.409:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054347.520:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054347.624:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054347.742:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054347.858:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054347.961:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054348.059:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054348.162:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054348.364:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054348.561:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054348.676:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054348.793:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054349.927:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054351.063:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054351.172:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054351.176:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054351.279:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 0.266 s for first_image_paint 0.265 s
+[38060:39120:0930/054351.781:INFO:CONSOLE:2] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://shopsquare.naver.com') does not match the recipient window's origin ('https://www.naver.com').", source: https://pm.pstatic.net/resources/js/main.5ca999fc.js?o=www (2)
+[38060:39120:0930/054351.781:INFO:CONSOLE:2] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://recoshopping.naver.com') does not match the recipient window's origin ('https://www.naver.com').", source: https://pm.pstatic.net/resources/js/main.5ca999fc.js?o=www (2)
+[38060:39120:0930/054357.322:INFO:CONSOLE:1] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://ssl.pstatic.net/t.static.blog/mylog/versioning/LayoutBottomCommon-56502216_https.js (1)
+[38060:39120:0930/054359.921:INFO:CONSOLE:1] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://ssl.pstatic.net/t.static.blog/mylog/versioning/LayoutBottomCommon-56502216_https.js (1)
+[38060:39120:0930/054422.364:INFO:CONSOLE:1] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://ssl.pstatic.net/t.static.blog/mylog/versioning/LayoutBottomCommon-56502216_https.js (1)
+[22944:33472:0930/054425.011:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 69
+[38060:39120:0930/054425.336:INFO:CONSOLE:1] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://ssl.pstatic.net/t.static.blog/mylog/versioning/LayoutBottomCommon-56502216_https.js (1)
+[38060:39120:0930/054425.516:INFO:CONSOLE:10] "MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 visible listeners added. Use emitter.setMaxListeners() to increase limit", source: https://ssl.pstatic.net/static/photoViewer/1.1.2/photo-viewer.js (10)
+[38060:39120:0930/054425.516:INFO:CONSOLE:10] "MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 invisible listeners added. Use emitter.setMaxListeners() to increase limit", source: https://ssl.pstatic.net/static/photoViewer/1.1.2/photo-viewer.js (10)
+[38060:39120:0930/054427.792:INFO:CONSOLE:1] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://ssl.pstatic.net/t.static.blog/mylog/versioning/LayoutBottomCommon-56502216_https.js (1)
+[38060:39120:0930/054427.872:INFO:CONSOLE:10] "MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 visible listeners added. Use emitter.setMaxListeners() to increase limit", source: https://ssl.pstatic.net/static/photoViewer/1.1.2/photo-viewer.js (10)
+[38060:39120:0930/054427.872:INFO:CONSOLE:10] "MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 invisible listeners added. Use emitter.setMaxListeners() to increase limit", source: https://ssl.pstatic.net/static/photoViewer/1.1.2/photo-viewer.js (10)
+[38060:44392:0930/054434.339:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[38060:39120:0930/054450.325:INFO:CONSOLE:1] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://ssl.pstatic.net/t.static.blog/mylog/versioning/LayoutBottomCommon-56502216_https.js (1)
+[38060:39120:0930/054450.399:INFO:CONSOLE:10] "MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 visible listeners added. Use emitter.setMaxListeners() to increase limit", source: https://ssl.pstatic.net/static/photoViewer/1.1.2/photo-viewer.js (10)
+[38060:39120:0930/054450.399:INFO:CONSOLE:10] "MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 invisible listeners added. Use emitter.setMaxListeners() to increase limit", source: https://ssl.pstatic.net/static/photoViewer/1.1.2/photo-viewer.js (10)
+[22944:33472:0930/054455.685:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 141

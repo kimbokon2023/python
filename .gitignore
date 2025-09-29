@@ -1,0 +1,16 @@
+# Ignore everything by default
+*
+
+# Allow directories so un-ignored files inside are visible
+!*/
+
+# Keep the .gitignore itself
+!.gitignore
+
+# Allow only these file types to be tracked
+!*.py
+!*.dxf
+!*.xlsm
+!*.xls
+
+
